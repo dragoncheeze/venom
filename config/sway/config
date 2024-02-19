@@ -65,7 +65,7 @@ seat seat0 xcursor_theme Adwaita 24
     bindsym $mod+Return exec $term
     bindsym $mod+n exec pcmanfm 
     bindsym $mod+b exec brave-browser-stable 
-    bindsym $mod+g exec flatpak
+    bindsym $mod+g exec lutris
     # Kill focused window
     bindsym $mod+x kill
 
