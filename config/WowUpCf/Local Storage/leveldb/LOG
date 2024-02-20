@@ -1,3 +1,3 @@
-2024/02/19-08:36:47.110 160b Reusing MANIFEST /home/colby/.config/WowUpCf/Local Storage/leveldb/MANIFEST-000001
-2024/02/19-08:36:47.114 160b Recovering log #3
-2024/02/19-08:36:47.114 160b Reusing old log /home/colby/.config/WowUpCf/Local Storage/leveldb/000003.log 
+2024/02/19-16:13:23.061 6f32 Reusing MANIFEST /home/colby/.config/WowUpCf/Local Storage/leveldb/MANIFEST-000001
+2024/02/19-16:13:23.063 6f32 Recovering log #3
+2024/02/19-16:13:23.064 6f32 Reusing old log /home/colby/.config/WowUpCf/Local Storage/leveldb/000003.log 

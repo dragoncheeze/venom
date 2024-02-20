@@ -2188,3 +2188,335 @@
 [2024-02-19 08:37:43.807] [info]  [FileRemove] /home/colby/.config/WowUpCf/downloads/u1EXhhUZfHGO66qw_-nJO-details-damage-meter.zip
 [2024-02-19 08:37:43.810] [info]  Install complete Details! Damage Meter
 [2024-02-19 08:37:51.586] [info]  window config saved
+[2024-02-19 15:47:25.431] [info]  Main starting
+[2024-02-19 15:47:25.437] [info]  Electron: 26.2.0
+[2024-02-19 15:47:25.437] [info]  BinaryPath: /tmp/.mount_WowUp-gkyODj/wowup-cf
+[2024-02-19 15:47:25.437] [info]  ExecPath /tmp/.mount_WowUp-gkyODj/wowup-cf
+[2024-02-19 15:47:25.438] [info]  Args [ '/tmp/.mount_WowUp-gkyODj/wowup-cf' ]
+[2024-02-19 15:47:25.438] [info]  Log path: /home/colby/.config/WowUpCf/logs
+[2024-02-19 15:47:25.439] [info]  ARGV { _: [], serve: false, hidden: false }
+[2024-02-19 15:47:25.440] [info]  USER_AGENT WowUp-Client/2.11.0 (Linux; 6.7.5-Venom; x64; CF;  +https://wowup.io)
+[2024-02-19 15:47:25.470] [info]  Hardware acceleration enabled
+[2024-02-19 15:47:25.943] [info]  App ready: 504ms
+[2024-02-19 15:47:26.026] [info]  process.versions {
+  node: '18.16.1',
+  acorn: '8.8.2',
+  ada: '1.0.4',
+  ares: '1.19.1',
+  brotli: '1.0.9',
+  cldr: '43.0',
+  icu: '73.1',
+  llhttp: '6.0.11',
+  modules: '116',
+  napi: '8',
+  nghttp2: '1.52.0',
+  openssl: '1.1.1',
+  simdutf: '3.2.2',
+  tz: '2023c',
+  undici: '5.21.0',
+  unicode: '15.0',
+  uv: '1.44.2',
+  uvwasi: '0.0.15',
+  v8: '11.6.189.20-electron.0',
+  zlib: '1.2.13.1-motley',
+  electron: '26.2.0',
+  chrome: '116.0.5845.179'
+}
+[2024-02-19 15:47:26.027] [info]  Loading app URL: 588ms
+[2024-02-19 15:47:26.660] [info]  Checking for update
+[2024-02-19 15:47:26.661] [info]  autoUpdater checking-for-update
+[2024-02-19 15:47:27.000] [info]  Platform linux true
+[2024-02-19 15:47:27.002] [info]  [CreateDirectory] '/home/colby/.config/WowUpCf/downloads'
+[2024-02-19 15:47:27.017] [info]  Language setup start
+[2024-02-19 15:47:27.019] [info]  getStartMinimized undefined undefined
+[2024-02-19 15:47:27.020] [info]  Set Language Preference: en
+[2024-02-19 15:47:27.027] [info]  loginItemSettings { __zone_symbol__state: null, __zone_symbol__value: [] }
+[2024-02-19 15:47:27.028] [info]  [GET] ./assets/i18n/en.json 200 7ms
+[2024-02-19 15:47:27.048] [info]  using locale en
+[2024-02-19 15:47:27.056] [error] Failed to search for Lutris library location Error
+    at file:///tmp/.mount_WowUp-gkyODj/resources/app.asar/dist/main.f421da7cf63015b0.js:1:1328809
+    at Generator.next (<anonymous>)
+    at MK (file:///tmp/.mount_WowUp-gkyODj/resources/app.asar/dist/main.f421da7cf63015b0.js:1:737613)
+    at a (file:///tmp/.mount_WowUp-gkyODj/resources/app.asar/dist/main.f421da7cf63015b0.js:1:737816)
+    at v.invoke (file:///tmp/.mount_WowUp-gkyODj/resources/app.asar/dist/polyfills.74362bc7c9f71f5d.js:1:6583)
+    at Object.onInvoke (file:///tmp/.mount_WowUp-gkyODj/resources/app.asar/dist/main.f421da7cf63015b0.js:1:634704)
+    at v.invoke (file:///tmp/.mount_WowUp-gkyODj/resources/app.asar/dist/polyfills.74362bc7c9f71f5d.js:1:6523)
+    at L.run (file:///tmp/.mount_WowUp-gkyODj/resources/app.asar/dist/polyfills.74362bc7c9f71f5d.js:1:1964)
+    at file:///tmp/.mount_WowUp-gkyODj/resources/app.asar/dist/polyfills.74362bc7c9f71f5d.js:1:16722
+    at v.invokeTask (file:///tmp/.mount_WowUp-gkyODj/resources/app.asar/dist/polyfills.74362bc7c9f71f5d.js:1:7201)
+[2024-02-19 15:47:27.056] [error] Failed to search for blizzard products Error: Lutris library not found
+    at file:///tmp/.mount_WowUp-gkyODj/resources/app.asar/dist/main.f421da7cf63015b0.js:1:1327700
+    at Generator.next (<anonymous>)
+    at MK (file:///tmp/.mount_WowUp-gkyODj/resources/app.asar/dist/main.f421da7cf63015b0.js:1:737613)
+    at a (file:///tmp/.mount_WowUp-gkyODj/resources/app.asar/dist/main.f421da7cf63015b0.js:1:737816)
+    at v.invoke (file:///tmp/.mount_WowUp-gkyODj/resources/app.asar/dist/polyfills.74362bc7c9f71f5d.js:1:6583)
+    at Object.onInvoke (file:///tmp/.mount_WowUp-gkyODj/resources/app.asar/dist/main.f421da7cf63015b0.js:1:634704)
+    at v.invoke (file:///tmp/.mount_WowUp-gkyODj/resources/app.asar/dist/polyfills.74362bc7c9f71f5d.js:1:6523)
+    at L.run (file:///tmp/.mount_WowUp-gkyODj/resources/app.asar/dist/polyfills.74362bc7c9f71f5d.js:1:1964)
+    at file:///tmp/.mount_WowUp-gkyODj/resources/app.asar/dist/polyfills.74362bc7c9f71f5d.js:1:16722
+    at v.invokeTask (file:///tmp/.mount_WowUp-gkyODj/resources/app.asar/dist/polyfills.74362bc7c9f71f5d.js:1:7201)
+[2024-02-19 15:47:27.062] [info]  Language setup complete
+[2024-02-19 15:47:27.063] [info]  Cannot import wow installations, no agent path
+[2024-02-19 15:47:27.072] [info]  onAutoUpdateInterval
+[2024-02-19 15:47:27.072] [info]  WowUpProtocolService 
+[2024-02-19 15:47:27.078] [info]  Creating app menu
+[2024-02-19 15:47:27.106] [info]  zoomPref undefined
+[2024-02-19 15:47:27.107] [info]  App menu created true
+[2024-02-19 15:47:27.108] [info]  Creating tray
+[2024-02-19 15:47:27.137] [info]  Tray created true
+[2024-02-19 15:47:27.139] [info]  Set Language Preference: en
+[2024-02-19 15:47:27.516] [info]  Checking for addon updates...
+[2024-02-19 15:47:27.555] [info]  Update for version 2.11.0 is not available (latest version: 2.11.0, downgrade is disallowed).
+[2024-02-19 15:47:27.555] [info]  autoUpdater update-not-available {
+  tag: 'v2.11.0',
+  version: '2.11.0',
+  files: [
+    {
+      url: 'WowUp-CF-2.11.0.AppImage',
+      sha512: 'zM+FkgE6M70PHkJVpup2zDbDZZ6q6hYsP+y2eRIk8eOrZ/PVsnyheDAJQjqrO0k7zA60hQojlmXbykvVwpTATw==',
+      size: 120553003,
+      blockMapSize: 126527
+    }
+  ],
+  path: 'WowUp-CF-2.11.0.AppImage',
+  sha512: 'zM+FkgE6M70PHkJVpup2zDbDZZ6q6hYsP+y2eRIk8eOrZ/PVsnyheDAJQjqrO0k7zA60hQojlmXbykvVwpTATw==',
+  releaseDate: '2024-02-05T17:09:55.424Z',
+  releaseName: '2.11.0',
+  releaseNotes: '<p>Lots of changes</p>'
+}
+[2024-02-19 15:47:27.556] [info]  checkForUpdates {
+  versionInfo: {
+    tag: 'v2.11.0',
+    version: '2.11.0',
+    files: [
+      {
+        url: 'WowUp-CF-2.11.0.AppImage',
+        sha512: 'zM+FkgE6M70PHkJVpup2zDbDZZ6q6hYsP+y2eRIk8eOrZ/PVsnyheDAJQjqrO0k7zA60hQojlmXbykvVwpTATw==',
+        size: 120553003,
+        blockMapSize: 126527
+      }
+    ],
+    path: 'WowUp-CF-2.11.0.AppImage',
+    sha512: 'zM+FkgE6M70PHkJVpup2zDbDZZ6q6hYsP+y2eRIk8eOrZ/PVsnyheDAJQjqrO0k7zA60hQojlmXbykvVwpTATw==',
+    releaseDate: '2024-02-05T17:09:55.424Z',
+    releaseName: '2.11.0',
+    releaseNotes: '<p>Lots of changes</p>'
+  }
+}
+[2024-02-19 15:47:27.575] [warn]  AG Grid: Since v31, 'columnApi.applyColumnState' is deprecated and moved to 'api.applyColumnState'.
+[2024-02-19 15:47:27.607] [info]  getCollapseToTray false
+[2024-02-19 15:47:27.609] [info]  Set Language Preference: en
+[2024-02-19 15:47:27.615] [info]  getStartMinimized undefined undefined
+[2024-02-19 15:47:27.629] [info]  IPC_APP_UPDATE_STATE app-update-state
+[2024-02-19 15:47:27.629] [info]  { state: 3 }
+[2024-02-19 15:47:27.630] [warn]  AG Grid: Since v31, 'columnApi.getColumnState' is deprecated and moved to 'api.getColumnState'.
+[2024-02-19 15:47:27.640] [warn]  AG Grid: setRowData is deprecated. Please use 'api.setGridOption('rowData', newValue)' or 'api.updateGridOptions({ rowData: newValue })' instead.
+[2024-02-19 15:47:27.734] [warn]  AG Grid: Since v31, 'columnApi.autoSizeColumns' is deprecated and moved to 'api.autoSizeColumns'.
+[2024-02-19 15:47:27.748] [info]  [POST] https://hub.wowup.io/addons/batch 200 634ms
+[2024-02-19 15:47:28.004] [info]  Checking for addon updates...
+[2024-02-19 15:47:30.220] [info]  [AddonUpdate] Curse 61284 Details! Damage Meter 'Details.20240218.12329.155' -> 'Details.20240219.12330.155'
+[2024-02-19 15:47:30.229] [info]  [DownloadFile] 'https://edge.forgecdn.net/files/5120/901/Details-Details.20240219.12330.155.zip' -> '/home/colby/.config/WowUpCf/downloads/ILdcLCp2PFWfi5oas99Zb-details-damage-meter.zip'
+[2024-02-19 15:47:30.347] [info]  [download] caught redirect 302 https://mediafilez.forgecdn.net/files/5120/901/Details-Details.20240219.12330.155.zip
+[2024-02-19 15:47:30.481] [debug] Write: [0] 14072
+[2024-02-19 15:47:30.549] [debug] Write: [5] 253743
+[2024-02-19 15:47:30.577] [debug] Write: [10] 509079
+[2024-02-19 15:47:30.598] [debug] Write: [15] 771487
+[2024-02-19 15:47:30.611] [debug] Write: [20] 1036772
+[2024-02-19 15:47:30.623] [debug] Write: [25] 1287692
+[2024-02-19 15:47:30.634] [debug] Write: [30] 1538783
+[2024-02-19 15:47:30.641] [debug] Write: [35] 1776932
+[2024-02-19 15:47:30.648] [debug] Write: [40] 2059251
+[2024-02-19 15:47:30.652] [debug] Write: [45] 2302950
+[2024-02-19 15:47:30.654] [debug] Write: [50] 2534186
+[2024-02-19 15:47:30.664] [debug] Write: [55] 2813495
+[2024-02-19 15:47:30.668] [debug] Write: [60] 3035976
+[2024-02-19 15:47:30.675] [debug] Write: [65] 3309847
+[2024-02-19 15:47:30.678] [debug] Write: [70] 3571991
+[2024-02-19 15:47:30.680] [debug] Write: [75] 3812054
+[2024-02-19 15:47:30.685] [debug] Write: [80] 4047417
+[2024-02-19 15:47:30.690] [debug] Write: [85] 4325376
+[2024-02-19 15:47:30.693] [debug] Write: [90] 4587520
+[2024-02-19 15:47:30.696] [debug] Write: [95] 4831772
+[2024-02-19 15:47:30.702] [debug] Write: [100] 5058840
+[2024-02-19 15:47:30.713] [info]  [CreateDirectory] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details-bak'
+[2024-02-19 15:47:30.714] [info]  [FileCopy] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details-bak'
+[2024-02-19 15:47:31.065] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details
+[2024-02-19 15:47:31.084] [info]  [CreateDirectory] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_Compare2-bak'
+[2024-02-19 15:47:31.085] [info]  [FileCopy] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_Compare2' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_Compare2-bak'
+[2024-02-19 15:47:31.087] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_Compare2
+[2024-02-19 15:47:31.089] [info]  [CreateDirectory] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_DataStorage-bak'
+[2024-02-19 15:47:31.090] [info]  [FileCopy] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_DataStorage' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_DataStorage-bak'
+[2024-02-19 15:47:31.092] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_DataStorage
+[2024-02-19 15:47:31.094] [info]  [CreateDirectory] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_EncounterDetails-bak'
+[2024-02-19 15:47:31.095] [info]  [FileCopy] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_EncounterDetails' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_EncounterDetails-bak'
+[2024-02-19 15:47:31.109] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_EncounterDetails
+[2024-02-19 15:47:31.112] [info]  [CreateDirectory] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_RaidCheck-bak'
+[2024-02-19 15:47:31.113] [info]  [FileCopy] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_RaidCheck' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_RaidCheck-bak'
+[2024-02-19 15:47:31.122] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_RaidCheck
+[2024-02-19 15:47:31.125] [info]  [CreateDirectory] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_Streamer-bak'
+[2024-02-19 15:47:31.126] [info]  [FileCopy] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_Streamer' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_Streamer-bak'
+[2024-02-19 15:47:31.138] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_Streamer
+[2024-02-19 15:47:31.142] [info]  [CreateDirectory] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_TinyThreat-bak'
+[2024-02-19 15:47:31.143] [info]  [FileCopy] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_TinyThreat' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_TinyThreat-bak'
+[2024-02-19 15:47:31.151] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_TinyThreat
+[2024-02-19 15:47:31.154] [info]  [CreateDirectory] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_Vanguard-bak'
+[2024-02-19 15:47:31.154] [info]  [FileCopy] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_Vanguard' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_Vanguard-bak'
+[2024-02-19 15:47:31.162] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_Vanguard
+[2024-02-19 15:47:31.165] [info]  unzipFile /home/colby/.config/WowUpCf/downloads/ILdcLCp2PFWfi5oas99Zb-details-damage-meter.zip
+[2024-02-19 15:47:31.629] [info]  [FileCopy] '/home/colby/.config/WowUpCf/downloads/k9QS2EipBk_fzTfVn-cKr/Details' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details'
+[2024-02-19 15:47:31.783] [info]  [FileCopy] '/home/colby/.config/WowUpCf/downloads/k9QS2EipBk_fzTfVn-cKr/Details_Compare2' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_Compare2'
+[2024-02-19 15:47:31.785] [info]  [FileCopy] '/home/colby/.config/WowUpCf/downloads/k9QS2EipBk_fzTfVn-cKr/Details_DataStorage' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_DataStorage'
+[2024-02-19 15:47:31.788] [info]  [FileCopy] '/home/colby/.config/WowUpCf/downloads/k9QS2EipBk_fzTfVn-cKr/Details_EncounterDetails' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_EncounterDetails'
+[2024-02-19 15:47:31.795] [info]  [FileCopy] '/home/colby/.config/WowUpCf/downloads/k9QS2EipBk_fzTfVn-cKr/Details_RaidCheck' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_RaidCheck'
+[2024-02-19 15:47:31.802] [info]  [FileCopy] '/home/colby/.config/WowUpCf/downloads/k9QS2EipBk_fzTfVn-cKr/Details_Streamer' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_Streamer'
+[2024-02-19 15:47:31.809] [info]  [FileCopy] '/home/colby/.config/WowUpCf/downloads/k9QS2EipBk_fzTfVn-cKr/Details_TinyThreat' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_TinyThreat'
+[2024-02-19 15:47:31.815] [info]  [FileCopy] '/home/colby/.config/WowUpCf/downloads/k9QS2EipBk_fzTfVn-cKr/Details_Vanguard' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_Vanguard'
+[2024-02-19 15:47:31.822] [info]  [RemovePath]: /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details-bak
+[2024-02-19 15:47:31.822] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details-bak
+[2024-02-19 15:47:31.822] [info]  [RemovePath]: /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_Compare2-bak
+[2024-02-19 15:47:31.823] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_Compare2-bak
+[2024-02-19 15:47:31.823] [info]  [RemovePath]: /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_DataStorage-bak
+[2024-02-19 15:47:31.823] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_DataStorage-bak
+[2024-02-19 15:47:31.824] [info]  [RemovePath]: /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_EncounterDetails-bak
+[2024-02-19 15:47:31.824] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_EncounterDetails-bak
+[2024-02-19 15:47:31.824] [info]  [RemovePath]: /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_RaidCheck-bak
+[2024-02-19 15:47:31.825] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_RaidCheck-bak
+[2024-02-19 15:47:31.825] [info]  [RemovePath]: /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_Streamer-bak
+[2024-02-19 15:47:31.825] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_Streamer-bak
+[2024-02-19 15:47:31.826] [info]  [RemovePath]: /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_TinyThreat-bak
+[2024-02-19 15:47:31.826] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_TinyThreat-bak
+[2024-02-19 15:47:31.826] [info]  [RemovePath]: /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_Vanguard-bak
+[2024-02-19 15:47:31.827] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Details_Vanguard-bak
+[2024-02-19 15:47:31.848] [info]  [AddedDirs] Curse 61284 Details! Damage Meter 
+[2024-02-19 15:47:31.893] [info]  [AddonUpdateComplete] Curse 61284 Details! Damage Meter Details.20240219.12330.155
+[2024-02-19 15:47:31.939] [info]  [FileRemove] /home/colby/.config/WowUpCf/downloads/k9QS2EipBk_fzTfVn-cKr
+[2024-02-19 15:47:31.958] [info]  [FileRemove] /home/colby/.config/WowUpCf/downloads/ILdcLCp2PFWfi5oas99Zb-details-damage-meter.zip
+[2024-02-19 15:47:31.960] [info]  Install complete Details! Damage Meter
+[2024-02-19 15:47:35.655] [info]  window config saved
+[2024-02-19 16:13:22.566] [info]  Main starting
+[2024-02-19 16:13:22.572] [info]  Electron: 26.2.0
+[2024-02-19 16:13:22.572] [info]  BinaryPath: /tmp/.mount_WowUp-I840SS/wowup-cf
+[2024-02-19 16:13:22.573] [info]  ExecPath /tmp/.mount_WowUp-I840SS/wowup-cf
+[2024-02-19 16:13:22.573] [info]  Args [ '/tmp/.mount_WowUp-I840SS/wowup-cf' ]
+[2024-02-19 16:13:22.574] [info]  Log path: /home/colby/.config/WowUpCf/logs
+[2024-02-19 16:13:22.575] [info]  ARGV { _: [], serve: false, hidden: false }
+[2024-02-19 16:13:22.576] [info]  USER_AGENT WowUp-Client/2.11.0 (Linux; 6.7.5-Venom; x64; CF;  +https://wowup.io)
+[2024-02-19 16:13:22.697] [info]  Hardware acceleration enabled
+[2024-02-19 16:13:23.126] [info]  App ready: 552ms
+[2024-02-19 16:13:23.212] [info]  process.versions {
+  node: '18.16.1',
+  acorn: '8.8.2',
+  ada: '1.0.4',
+  ares: '1.19.1',
+  brotli: '1.0.9',
+  cldr: '43.0',
+  icu: '73.1',
+  llhttp: '6.0.11',
+  modules: '116',
+  napi: '8',
+  nghttp2: '1.52.0',
+  openssl: '1.1.1',
+  simdutf: '3.2.2',
+  tz: '2023c',
+  undici: '5.21.0',
+  unicode: '15.0',
+  uv: '1.44.2',
+  uvwasi: '0.0.15',
+  v8: '11.6.189.20-electron.0',
+  zlib: '1.2.13.1-motley',
+  electron: '26.2.0',
+  chrome: '116.0.5845.179'
+}
+[2024-02-19 16:13:23.213] [info]  Loading app URL: 639ms
+[2024-02-19 16:13:23.866] [info]  Checking for update
+[2024-02-19 16:13:23.867] [info]  autoUpdater checking-for-update
+[2024-02-19 16:13:24.174] [info]  Platform linux true
+[2024-02-19 16:13:24.175] [info]  [CreateDirectory] '/home/colby/.config/WowUpCf/downloads'
+[2024-02-19 16:13:24.190] [info]  Language setup start
+[2024-02-19 16:13:24.192] [info]  getStartMinimized undefined undefined
+[2024-02-19 16:13:24.194] [info]  Set Language Preference: en
+[2024-02-19 16:13:24.200] [info]  loginItemSettings { __zone_symbol__state: null, __zone_symbol__value: [] }
+[2024-02-19 16:13:24.202] [info]  [GET] ./assets/i18n/en.json 200 8ms
+[2024-02-19 16:13:24.221] [info]  using locale en
+[2024-02-19 16:13:24.237] [error] Failed to search for Lutris library location Error
+    at file:///tmp/.mount_WowUp-I840SS/resources/app.asar/dist/main.f421da7cf63015b0.js:1:1328809
+    at Generator.next (<anonymous>)
+    at MK (file:///tmp/.mount_WowUp-I840SS/resources/app.asar/dist/main.f421da7cf63015b0.js:1:737613)
+    at a (file:///tmp/.mount_WowUp-I840SS/resources/app.asar/dist/main.f421da7cf63015b0.js:1:737816)
+    at v.invoke (file:///tmp/.mount_WowUp-I840SS/resources/app.asar/dist/polyfills.74362bc7c9f71f5d.js:1:6583)
+    at Object.onInvoke (file:///tmp/.mount_WowUp-I840SS/resources/app.asar/dist/main.f421da7cf63015b0.js:1:634704)
+    at v.invoke (file:///tmp/.mount_WowUp-I840SS/resources/app.asar/dist/polyfills.74362bc7c9f71f5d.js:1:6523)
+    at L.run (file:///tmp/.mount_WowUp-I840SS/resources/app.asar/dist/polyfills.74362bc7c9f71f5d.js:1:1964)
+    at file:///tmp/.mount_WowUp-I840SS/resources/app.asar/dist/polyfills.74362bc7c9f71f5d.js:1:16722
+    at v.invokeTask (file:///tmp/.mount_WowUp-I840SS/resources/app.asar/dist/polyfills.74362bc7c9f71f5d.js:1:7201)
+[2024-02-19 16:13:24.238] [error] Failed to search for blizzard products Error: Lutris library not found
+    at file:///tmp/.mount_WowUp-I840SS/resources/app.asar/dist/main.f421da7cf63015b0.js:1:1327700
+    at Generator.next (<anonymous>)
+    at MK (file:///tmp/.mount_WowUp-I840SS/resources/app.asar/dist/main.f421da7cf63015b0.js:1:737613)
+    at a (file:///tmp/.mount_WowUp-I840SS/resources/app.asar/dist/main.f421da7cf63015b0.js:1:737816)
+    at v.invoke (file:///tmp/.mount_WowUp-I840SS/resources/app.asar/dist/polyfills.74362bc7c9f71f5d.js:1:6583)
+    at Object.onInvoke (file:///tmp/.mount_WowUp-I840SS/resources/app.asar/dist/main.f421da7cf63015b0.js:1:634704)
+    at v.invoke (file:///tmp/.mount_WowUp-I840SS/resources/app.asar/dist/polyfills.74362bc7c9f71f5d.js:1:6523)
+    at L.run (file:///tmp/.mount_WowUp-I840SS/resources/app.asar/dist/polyfills.74362bc7c9f71f5d.js:1:1964)
+    at file:///tmp/.mount_WowUp-I840SS/resources/app.asar/dist/polyfills.74362bc7c9f71f5d.js:1:16722
+    at v.invokeTask (file:///tmp/.mount_WowUp-I840SS/resources/app.asar/dist/polyfills.74362bc7c9f71f5d.js:1:7201)
+[2024-02-19 16:13:24.243] [info]  Language setup complete
+[2024-02-19 16:13:24.244] [info]  Cannot import wow installations, no agent path
+[2024-02-19 16:13:24.259] [info]  onAutoUpdateInterval
+[2024-02-19 16:13:24.259] [info]  WowUpProtocolService 
+[2024-02-19 16:13:24.270] [info]  Creating app menu
+[2024-02-19 16:13:24.304] [info]  zoomPref undefined
+[2024-02-19 16:13:24.305] [info]  App menu created true
+[2024-02-19 16:13:24.305] [info]  Creating tray
+[2024-02-19 16:13:24.338] [info]  Tray created true
+[2024-02-19 16:13:24.340] [info]  Set Language Preference: en
+[2024-02-19 16:13:24.645] [info]  Update for version 2.11.0 is not available (latest version: 2.11.0, downgrade is disallowed).
+[2024-02-19 16:13:24.645] [info]  autoUpdater update-not-available {
+  tag: 'v2.11.0',
+  version: '2.11.0',
+  files: [
+    {
+      url: 'WowUp-CF-2.11.0.AppImage',
+      sha512: 'zM+FkgE6M70PHkJVpup2zDbDZZ6q6hYsP+y2eRIk8eOrZ/PVsnyheDAJQjqrO0k7zA60hQojlmXbykvVwpTATw==',
+      size: 120553003,
+      blockMapSize: 126527
+    }
+  ],
+  path: 'WowUp-CF-2.11.0.AppImage',
+  sha512: 'zM+FkgE6M70PHkJVpup2zDbDZZ6q6hYsP+y2eRIk8eOrZ/PVsnyheDAJQjqrO0k7zA60hQojlmXbykvVwpTATw==',
+  releaseDate: '2024-02-05T17:09:55.424Z',
+  releaseName: '2.11.0',
+  releaseNotes: '<p>Lots of changes</p>'
+}
+[2024-02-19 16:13:24.646] [info]  checkForUpdates {
+  versionInfo: {
+    tag: 'v2.11.0',
+    version: '2.11.0',
+    files: [
+      {
+        url: 'WowUp-CF-2.11.0.AppImage',
+        sha512: 'zM+FkgE6M70PHkJVpup2zDbDZZ6q6hYsP+y2eRIk8eOrZ/PVsnyheDAJQjqrO0k7zA60hQojlmXbykvVwpTATw==',
+        size: 120553003,
+        blockMapSize: 126527
+      }
+    ],
+    path: 'WowUp-CF-2.11.0.AppImage',
+    sha512: 'zM+FkgE6M70PHkJVpup2zDbDZZ6q6hYsP+y2eRIk8eOrZ/PVsnyheDAJQjqrO0k7zA60hQojlmXbykvVwpTATw==',
+    releaseDate: '2024-02-05T17:09:55.424Z',
+    releaseName: '2.11.0',
+    releaseNotes: '<p>Lots of changes</p>'
+  }
+}
+[2024-02-19 16:13:24.696] [info]  Checking for addon updates...
+[2024-02-19 16:13:24.738] [warn]  AG Grid: Since v31, 'columnApi.applyColumnState' is deprecated and moved to 'api.applyColumnState'.
+[2024-02-19 16:13:24.782] [info]  IPC_APP_UPDATE_STATE app-update-state
+[2024-02-19 16:13:24.782] [info]  { state: 3 }
+[2024-02-19 16:13:24.788] [info]  getCollapseToTray false
+[2024-02-19 16:13:24.791] [info]  Set Language Preference: en
+[2024-02-19 16:13:24.796] [info]  getStartMinimized undefined undefined
+[2024-02-19 16:13:24.811] [warn]  AG Grid: Since v31, 'columnApi.getColumnState' is deprecated and moved to 'api.getColumnState'.
+[2024-02-19 16:13:24.823] [warn]  AG Grid: setRowData is deprecated. Please use 'api.setGridOption('rowData', newValue)' or 'api.updateGridOptions({ rowData: newValue })' instead.
+[2024-02-19 16:13:24.924] [warn]  AG Grid: Since v31, 'columnApi.autoSizeColumns' is deprecated and moved to 'api.autoSizeColumns'.
+[2024-02-19 16:13:24.939] [info]  [POST] https://hub.wowup.io/addons/batch 200 631ms
+[2024-02-19 16:13:25.273] [info]  Checking for addon updates...
+[2024-02-19 16:13:39.316] [info]  window config saved
