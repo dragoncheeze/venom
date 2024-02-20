@@ -1,11 +1,11 @@
 # Default config for sway
-xwayland enable
 # Copy this to ~/.config/sway/config and edit it to your liking.
 #
 # Read `man 5 sway` for a complete reference.
 #exec lxpolkit
 exec pulseaudio -D
 exec_always autotiling
+exec /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 ### Variables
 #
 # Logo key. Use Mod1 for Alt.
