@@ -1,0 +1,11 @@
+#
+# /etc/scratchpkg.repo : scratchpkg repo file
+#
+# format:
+#    <repo directory> <repo url for sync>
+#
+
+/usr/ports/main       https://gitlab.com/venomlinux/ports/main
+/usr/ports/multilib   https://gitlab.com/venomlinux/ports/multilib
+/usr/ports/nonfree    https://gitlab.com/venomlinux/ports/nonfree
+#/usr/ports/testing    https://gitlab.com/venomlinux/ports/testing
