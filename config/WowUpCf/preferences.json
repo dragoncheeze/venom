@@ -21,7 +21,7 @@
 	"main-window-is-fullscreen": false,
 	"main-window-state": {
 		"x": 308,
-		"y": 202,
+		"y": 200,
 		"width": 1304,
 		"height": 705
 	},
@@ -59,6 +59,26 @@
 			"displayName": "World of Warcraft",
 			"location": "/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Wow.exe",
 			"selected": true
+		},
+		{
+			"id": "348ada82-b4cb-4758-be00-76285856f2d7",
+			"clientType": 1,
+			"defaultAddonChannelType": 0,
+			"defaultAutoUpdate": false,
+			"label": "{defaultName}",
+			"displayName": "Wrath of the Lich King Classic",
+			"location": "/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/WowClassic.exe",
+			"selected": false
+		},
+		{
+			"id": "ad25db76-9d7e-4be9-aba6-8bd5d4076951",
+			"clientType": 6,
+			"defaultAddonChannelType": 0,
+			"defaultAutoUpdate": false,
+			"label": "{defaultName}",
+			"displayName": "World of Warcraft Classic",
+			"location": "/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/WowClassic.exe",
+			"selected": false
 		}
 	],
 	"addon_migration_version": "2.11.0"

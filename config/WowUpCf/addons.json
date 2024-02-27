@@ -55,19 +55,19 @@
 		"id": "5fab3e25-df00-444b-9d96-e94651fc13d8",
 		"name": "Leatrix Plus (Dragonflight)",
 		"thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/483/32/256/256/637782408501667202.png",
-		"latestVersion": "10.2.15",
+		"latestVersion": "10.2.16",
 		"clientType": 0,
 		"externalId": "94855",
 		"gameVersion": "10.2.5",
 		"author": "Leatrix",
-		"downloadUrl": "https://edge.forgecdn.net/files/5107/111/Leatrix_Plus-10.2.15.zip",
+		"downloadUrl": "https://edge.forgecdn.net/files/5126/379/Leatrix_Plus-10.2.16.zip",
 		"externalUrl": "https://www.curseforge.com/wow/addons/leatrix-plus",
 		"providerName": "Curse",
 		"channelType": 0,
 		"isIgnored": false,
 		"autoUpdateEnabled": false,
 		"autoUpdateNotificationsEnabled": false,
-		"releasedAt": "2024-02-14T09:13:44.727Z",
+		"releasedAt": "2024-02-21T21:19:23.050Z",
 		"summary": "Powerful and modular quality of life addon with a small resource footprint.",
 		"screenshotUrls": [
 			"https://media.forgecdn.net/attachments/215/584/snap6.jpg",
@@ -81,16 +81,16 @@
 		],
 		"externalChannel": "Stable",
 		"isLoadOnDemand": false,
-		"externalLatestReleaseId": "5107111",
+		"externalLatestReleaseId": "5126379",
 		"fundingLinks": [],
 		"latestChangelogVersion": "10.2.15",
 		"installationId": "310ca5ff-29bb-4cda-86e4-bc3883ac41b2",
 		"installedFolderList": [
 			"Leatrix_Plus"
 		],
-		"installedExternalReleaseId": "5107111",
-		"installedVersion": "10.2.15",
-		"installedAt": "2024-02-19T14:37:14.147Z",
+		"installedExternalReleaseId": "5126379",
+		"installedVersion": "10.2.16",
+		"installedAt": "2024-02-27T05:04:51.477Z",
 		"installedFolders": "Leatrix_Plus",
 		"externalIds": [
 			{
@@ -103,19 +103,19 @@
 		"id": "060348fd-c51d-4e70-86a0-763c5937c321",
 		"name": "Leatrix Maps (Dragonflight)",
 		"thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/483/28/256/256/637782408015473073.png",
-		"latestVersion": "10.2.15",
+		"latestVersion": "10.2.16",
 		"clientType": 0,
 		"externalId": "298842",
 		"gameVersion": "10.2.5",
 		"author": "Leatrix",
-		"downloadUrl": "https://edge.forgecdn.net/files/5107/110/Leatrix_Maps-10.2.15.zip",
+		"downloadUrl": "https://edge.forgecdn.net/files/5126/377/Leatrix_Maps-10.2.16.zip",
 		"externalUrl": "https://www.curseforge.com/wow/addons/leatrix-maps",
 		"providerName": "Curse",
 		"channelType": 0,
 		"isIgnored": false,
 		"autoUpdateEnabled": false,
 		"autoUpdateNotificationsEnabled": false,
-		"releasedAt": "2024-02-14T09:13:28.960Z",
+		"releasedAt": "2024-02-21T21:18:58.143Z",
 		"summary": "Enhancements for your maps.",
 		"screenshotUrls": [
 			"https://media.forgecdn.net/attachments/294/655/ltmnew3.jpg"
@@ -128,16 +128,16 @@
 		],
 		"externalChannel": "Stable",
 		"isLoadOnDemand": false,
-		"externalLatestReleaseId": "5107110",
+		"externalLatestReleaseId": "5126377",
 		"fundingLinks": [],
 		"latestChangelogVersion": "10.2.15",
 		"installationId": "310ca5ff-29bb-4cda-86e4-bc3883ac41b2",
 		"installedFolderList": [
 			"Leatrix_Maps"
 		],
-		"installedExternalReleaseId": "5107110",
-		"installedVersion": "10.2.15",
-		"installedAt": "2024-02-19T14:37:15.226Z",
+		"installedExternalReleaseId": "5126377",
+		"installedVersion": "10.2.16",
+		"installedAt": "2024-02-27T05:04:51.382Z",
 		"installedFolders": "Leatrix_Maps",
 		"externalIds": [
 			{
@@ -150,19 +150,19 @@
 		"id": "f2e89020-e6fe-43a1-832d-a6b9d41e0db6",
 		"name": "Pawn",
 		"thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/320/97/256/256/637427080899696008.jpeg",
-		"latestVersion": "2.8.9",
+		"latestVersion": "2.8.10",
 		"clientType": 0,
 		"externalId": "4646",
 		"gameVersion": "10.2.5",
 		"author": "TravisSpomer",
-		"downloadUrl": "https://edge.forgecdn.net/files/5081/36/Pawn-2.8.9.zip",
+		"downloadUrl": "https://edge.forgecdn.net/files/5133/401/Pawn-2.8.10.zip",
 		"externalUrl": "https://www.curseforge.com/wow/addons/pawn",
 		"providerName": "Curse",
 		"channelType": 0,
 		"isIgnored": false,
 		"autoUpdateEnabled": false,
 		"autoUpdateNotificationsEnabled": false,
-		"releasedAt": "2024-02-04T18:23:19.893Z",
+		"releasedAt": "2024-02-24T18:46:48.110Z",
 		"summary": "Pawn helps you compare items and find upgrades.",
 		"screenshotUrls": [
 			"https://media.forgecdn.net/attachments/102/344/Loot_upgrade_advisor.jpg",
@@ -184,16 +184,16 @@
 		"dependencies": [],
 		"externalChannel": "Stable",
 		"isLoadOnDemand": false,
-		"externalLatestReleaseId": "5081036",
+		"externalLatestReleaseId": "5133401",
 		"fundingLinks": [],
 		"latestChangelogVersion": "2.8.9",
 		"installationId": "310ca5ff-29bb-4cda-86e4-bc3883ac41b2",
 		"installedFolderList": [
 			"Pawn"
 		],
-		"installedExternalReleaseId": "5081036",
-		"installedVersion": "2.8.9",
-		"installedAt": "2024-02-19T14:37:22.532Z",
+		"installedExternalReleaseId": "5133401",
+		"installedVersion": "2.8.10",
+		"installedAt": "2024-02-27T05:04:51.548Z",
 		"installedFolders": "Pawn",
 		"externalIds": [
 			{
@@ -268,19 +268,19 @@
 		"id": "1cedba7a-5c5b-4bb8-926e-6d851a9205d7",
 		"name": "Auctionator",
 		"thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/810/384/256/256/638182110684675083.png",
-		"latestVersion": "10.2.25",
+		"latestVersion": "10.2.26",
 		"clientType": 0,
 		"externalId": "6124",
 		"gameVersion": "10.2.5",
 		"author": "borjamacare, plusmouse",
-		"downloadUrl": "https://edge.forgecdn.net/files/5112/842/Auctionator-10.2.25.zip",
+		"downloadUrl": "https://edge.forgecdn.net/files/5133/603/Auctionator-10.2.26.zip",
 		"externalUrl": "https://www.curseforge.com/wow/addons/auctionator",
 		"providerName": "Curse",
 		"channelType": 0,
 		"isIgnored": false,
 		"autoUpdateEnabled": false,
 		"autoUpdateNotificationsEnabled": false,
-		"releasedAt": "2024-02-16T15:34:14.653Z",
+		"releasedAt": "2024-02-24T20:26:53.627Z",
 		"summary": "Makes it easier to use the auction house and track the value of items",
 		"screenshotUrls": [
 			"https://media.forgecdn.net/attachments/721/368/2023-screenshot-classic-shopping-1.png",
@@ -295,16 +295,16 @@
 		"dependencies": [],
 		"externalChannel": "Stable",
 		"isLoadOnDemand": false,
-		"externalLatestReleaseId": "5112842",
+		"externalLatestReleaseId": "5133603",
 		"fundingLinks": [],
 		"latestChangelogVersion": "10.2.25",
 		"installationId": "310ca5ff-29bb-4cda-86e4-bc3883ac41b2",
 		"installedFolderList": [
 			"Auctionator"
 		],
-		"installedExternalReleaseId": "5112842",
-		"installedVersion": "10.2.25",
-		"installedAt": "2024-02-19T14:37:34.279Z",
+		"installedExternalReleaseId": "5133603",
+		"installedVersion": "10.2.26",
+		"installedAt": "2024-02-27T05:04:52.356Z",
 		"installedFolders": "Auctionator",
 		"externalIds": [
 			{
@@ -411,6 +411,1191 @@
 		"externalIds": [
 			{
 				"id": "61284",
+				"providerName": "Curse"
+			}
+		]
+	},
+	"f0fa650e-1175-4723-985f-3a3125773e57": {
+		"id": "f0fa650e-1175-4723-985f-3a3125773e57",
+		"author": "borjamacare, plusmouse",
+		"name": "Auctionator",
+		"channelType": 0,
+		"autoUpdateEnabled": false,
+		"autoUpdateNotificationsEnabled": false,
+		"clientType": 1,
+		"downloadUrl": "https://edge.forgecdn.net/files/5133/605/Auctionator-10.2.26-wrath.zip",
+		"externalUrl": "https://www.curseforge.com/wow/addons/auctionator",
+		"externalId": "6124",
+		"gameVersion": "3.4.3",
+		"installedAt": "2024-02-27T15:30:02.980Z",
+		"installedFolders": "Auctionator",
+		"installedFolderList": [
+			"Auctionator"
+		],
+		"installedVersion": "10.2.26-wrath",
+		"installedExternalReleaseId": "5133605",
+		"isIgnored": false,
+		"latestVersion": "10.2.26-wrath",
+		"providerName": "Curse",
+		"thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/810/384/256/256/638182110684675083.png",
+		"screenshotUrls": [
+			"https://media.forgecdn.net/attachments/721/368/2023-screenshot-classic-shopping-1.png",
+			"https://media.forgecdn.net/attachments/721/367/2023-screenshot-classic-cancelling-1.png",
+			"https://media.forgecdn.net/attachments/548/252/2022-12-screenshot-selling.png",
+			"https://media.forgecdn.net/attachments/548/332/2022-12-screenshot-tooltip.png",
+			"https://media.forgecdn.net/attachments/667/349/2023-screenshot-new-shopping-tab-3.png",
+			"https://media.forgecdn.net/attachments/721/369/2023-screenshot-classic-tooltip-1.png",
+			"https://media.forgecdn.net/attachments/548/275/2022-12-screenshot-cancelling.png",
+			"https://media.forgecdn.net/attachments/721/366/2023-screenshot-classic-selling-1.png"
+		],
+		"downloadCount": 103809353,
+		"summary": "Makes it easier to use the auction house and track the value of items",
+		"releasedAt": "2024-02-24T20:26:57.137Z",
+		"isLoadOnDemand": false,
+		"externalLatestReleaseId": "5133605",
+		"updatedAt": "2024-02-15T15:00:22.872Z",
+		"externalChannel": "Stable",
+		"installationId": "348ada82-b4cb-4758-be00-76285856f2d7",
+		"externalIds": [
+			{
+				"id": "6124",
+				"providerName": "Curse"
+			}
+		]
+	},
+	"4d1d085c-c807-4ef5-92ff-f293332f86c5": {
+		"id": "4d1d085c-c807-4ef5-92ff-f293332f86c5",
+		"author": "jnwhiteh",
+		"name": "Clique",
+		"channelType": 0,
+		"autoUpdateEnabled": false,
+		"autoUpdateNotificationsEnabled": false,
+		"clientType": 1,
+		"downloadUrl": "https://edge.forgecdn.net/files/5039/339/Clique-v3.5.6-release.zip",
+		"externalUrl": "https://www.curseforge.com/wow/addons/clique",
+		"externalId": "15564",
+		"gameVersion": "3.4.3",
+		"installedAt": "2024-02-07T05:45:32.371Z",
+		"installedFolders": "Clique",
+		"installedFolderList": [
+			"Clique"
+		],
+		"installedVersion": "v3.5.6-release",
+		"installedExternalReleaseId": "5039339",
+		"isIgnored": false,
+		"latestVersion": "v3.5.6-release",
+		"providerName": "Curse",
+		"thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/57/431/256/256/636141406140850189.png",
+		"screenshotUrls": [
+			"https://media.forgecdn.net/attachments/88/77/Screen_shot_2010-10-12_at_11.54.07.png",
+			"https://media.forgecdn.net/attachments/88/81/Screen_shot_2010-10-12_at_11.55.28.png",
+			"https://media.forgecdn.net/attachments/88/74/Screen_shot_2010-10-12_at_11.55.21.png",
+			"https://media.forgecdn.net/attachments/88/84/Screen_shot_2010-10-12_at_12.00.19.png"
+		],
+		"downloadCount": 12099493,
+		"summary": "Simply powerful click-casting interface",
+		"releasedAt": "2024-01-17T07:12:59.043Z",
+		"isLoadOnDemand": false,
+		"externalLatestReleaseId": "5039339",
+		"updatedAt": "2024-02-07T05:45:32.371Z",
+		"externalChannel": "Stable",
+		"installationId": "348ada82-b4cb-4758-be00-76285856f2d7",
+		"externalIds": [
+			{
+				"id": "5108",
+				"providerName": "WowInterface"
+			},
+			{
+				"id": "15564",
+				"providerName": "Curse"
+			}
+		]
+	},
+	"acc69b9e-b018-41c0-9d86-8a627b814178": {
+		"id": "acc69b9e-b018-41c0-9d86-8a627b814178",
+		"author": "Tuller",
+		"name": "Dominos",
+		"channelType": 0,
+		"autoUpdateEnabled": false,
+		"autoUpdateNotificationsEnabled": false,
+		"clientType": 1,
+		"downloadUrl": "https://edge.forgecdn.net/files/5120/781/Dominos-10.2.21.zip",
+		"externalUrl": "https://www.curseforge.com/wow/addons/dominos",
+		"externalId": "6650",
+		"gameVersion": "3.4.3",
+		"installedAt": "2024-02-27T15:30:02.608Z",
+		"installedFolders": "Dominos,Dominos_Cast,Dominos_Config,Dominos_Progress,Dominos_Roll,Masque_Dominos",
+		"installedFolderList": [
+			"Dominos",
+			"Dominos_Cast",
+			"Dominos_Config",
+			"Dominos_Progress",
+			"Dominos_Roll",
+			"Masque_Dominos"
+		],
+		"installedVersion": "10.2.21",
+		"installedExternalReleaseId": "5120781",
+		"isIgnored": false,
+		"latestVersion": "10.2.21",
+		"providerName": "Curse",
+		"thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/55/592/256/256/636141356686255923.jpg",
+		"screenshotUrls": [
+			"https://media.forgecdn.net/attachments/79/768/dominos setup.jpg"
+		],
+		"downloadCount": 18281733,
+		"summary": "A main action bar replacement",
+		"releasedAt": "2024-02-19T15:22:06.227Z",
+		"isLoadOnDemand": false,
+		"externalLatestReleaseId": "5120781",
+		"updatedAt": "2024-02-15T15:00:22.465Z",
+		"externalChannel": "Stable",
+		"installationId": "348ada82-b4cb-4758-be00-76285856f2d7",
+		"externalIds": [
+			{
+				"id": "26455",
+				"providerName": "WowInterface"
+			},
+			{
+				"id": "699643",
+				"providerName": "Curse"
+			},
+			{
+				"id": "6650",
+				"providerName": "Curse"
+			}
+		]
+	},
+	"ac1f184a-827b-4b7c-b610-68594d7b5351": {
+		"id": "ac1f184a-827b-4b7c-b610-68594d7b5351",
+		"author": "Leatrix",
+		"name": "Leatrix Maps (Wrath of the Lich King Classic)",
+		"channelType": 0,
+		"autoUpdateEnabled": false,
+		"autoUpdateNotificationsEnabled": false,
+		"clientType": 1,
+		"downloadUrl": "https://edge.forgecdn.net/files/5126/386/Leatrix_Maps-3.0.180-wrath.zip",
+		"externalUrl": "https://www.curseforge.com/wow/addons/leatrix-maps-wrath",
+		"externalId": "463868",
+		"gameVersion": "3.4.3",
+		"installedAt": "2024-02-27T15:30:02.077Z",
+		"installedFolders": "Leatrix_Maps",
+		"installedFolderList": [
+			"Leatrix_Maps"
+		],
+		"installedVersion": "3.0.180-wrath",
+		"installedExternalReleaseId": "5126386",
+		"isIgnored": false,
+		"latestVersion": "3.0.180-wrath",
+		"providerName": "Curse",
+		"thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/483/40/256/256/637782415088941889.png",
+		"screenshotUrls": [],
+		"downloadCount": 18455952,
+		"summary": "Enhancements for your maps.",
+		"releasedAt": "2024-02-21T21:22:41.267Z",
+		"isLoadOnDemand": false,
+		"externalLatestReleaseId": "5126386",
+		"updatedAt": "2024-02-15T15:00:22.725Z",
+		"externalChannel": "Stable",
+		"installationId": "348ada82-b4cb-4758-be00-76285856f2d7",
+		"externalIds": [
+			{
+				"id": "463868",
+				"providerName": "Curse"
+			}
+		]
+	},
+	"2f239006-7d9b-4798-9a89-5d30907aa286": {
+		"id": "2f239006-7d9b-4798-9a89-5d30907aa286",
+		"author": "Leatrix",
+		"name": "Leatrix Plus (Wrath of the Lich King Classic)",
+		"channelType": 0,
+		"autoUpdateEnabled": false,
+		"autoUpdateNotificationsEnabled": false,
+		"clientType": 1,
+		"downloadUrl": "https://edge.forgecdn.net/files/5127/780/Leatrix_Plus-3.0.181-wrath.zip",
+		"externalUrl": "https://www.curseforge.com/wow/addons/leatrix-plus-wrath",
+		"externalId": "463863",
+		"gameVersion": "3.4.3",
+		"installedAt": "2024-02-27T15:30:02.391Z",
+		"installedFolders": "Leatrix_Plus",
+		"installedFolderList": [
+			"Leatrix_Plus"
+		],
+		"installedVersion": "3.0.181-wrath",
+		"installedExternalReleaseId": "5127780",
+		"isIgnored": false,
+		"latestVersion": "3.0.181-wrath",
+		"providerName": "Curse",
+		"thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/483/29/256/256/637782408109739953.png",
+		"screenshotUrls": [],
+		"downloadCount": 24412981,
+		"summary": "Powerful and modular quality of life addon with a small resource footprint.",
+		"releasedAt": "2024-02-22T12:30:08.563Z",
+		"isLoadOnDemand": false,
+		"externalLatestReleaseId": "5127780",
+		"updatedAt": "2024-02-15T15:00:23.115Z",
+		"externalChannel": "Stable",
+		"installationId": "348ada82-b4cb-4758-be00-76285856f2d7",
+		"externalIds": [
+			{
+				"id": "463863",
+				"providerName": "Curse"
+			}
+		]
+	},
+	"740dd014-66af-4fb2-afb2-0bf3b24f1b14": {
+		"id": "740dd014-66af-4fb2-afb2-0bf3b24f1b14",
+		"author": "TravisSpomer",
+		"name": "Pawn",
+		"channelType": 0,
+		"autoUpdateEnabled": false,
+		"autoUpdateNotificationsEnabled": false,
+		"clientType": 1,
+		"downloadUrl": "https://edge.forgecdn.net/files/5133/397/Pawn-2.8.10-Wrath.zip",
+		"externalUrl": "https://www.curseforge.com/wow/addons/pawn",
+		"externalId": "4646",
+		"gameVersion": "3.4.3",
+		"installedAt": "2024-02-27T15:30:02.704Z",
+		"installedFolders": "Pawn",
+		"installedFolderList": [
+			"Pawn"
+		],
+		"installedVersion": "2.8.10 (Wrath)",
+		"installedExternalReleaseId": "5133397",
+		"isIgnored": false,
+		"latestVersion": "2.8.10 (Wrath)",
+		"providerName": "Curse",
+		"thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/320/97/256/256/637427080899696008.jpeg",
+		"screenshotUrls": [
+			"https://media.forgecdn.net/attachments/102/344/Loot_upgrade_advisor.jpg",
+			"https://media.forgecdn.net/attachments/102/336/Pawn_-_AtlasLoot.png",
+			"https://media.forgecdn.net/attachments/200/60/relic-upgrades.jpg",
+			"https://media.forgecdn.net/attachments/102/337/Pawn_-_tooltips.png",
+			"https://media.forgecdn.net/attachments/102/338/Pawn_-_gems.png",
+			"https://media.forgecdn.net/attachments/102/346/Pawn_1.7_socketing_advisor.jpg",
+			"https://media.forgecdn.net/attachments/102/345/Pawn_options.jpg",
+			"https://media.forgecdn.net/attachments/102/333/Bag_arrows.jpg",
+			"https://media.forgecdn.net/attachments/102/335/Pawn_manual_mode.jpg",
+			"https://media.forgecdn.net/attachments/102/334/Pawn_auto_mode.jpg",
+			"https://media.forgecdn.net/attachments/102/341/Pawn_-_values.png",
+			"https://media.forgecdn.net/attachments/102/347/Pawn_s_Compare_tab.jpg",
+			"https://media.forgecdn.net/attachments/102/339/Pawn_-_auctions.jpg",
+			"https://media.forgecdn.net/attachments/102/343/Pawn_quest_advisor.jpg",
+			"https://media.forgecdn.net/attachments/102/332/AMR.jpg"
+		],
+		"downloadCount": 92526946,
+		"summary": "Pawn helps you compare items and find upgrades.",
+		"releasedAt": "2024-02-24T18:46:13.497Z",
+		"isLoadOnDemand": false,
+		"externalLatestReleaseId": "5133397",
+		"updatedAt": "2024-02-07T05:45:32.568Z",
+		"externalChannel": "Stable",
+		"installationId": "348ada82-b4cb-4758-be00-76285856f2d7",
+		"externalIds": [
+			{
+				"id": "4646",
+				"providerName": "Curse"
+			}
+		]
+	},
+	"f7a15466-d69a-44bd-9f23-d225dd30b08b": {
+		"id": "f7a15466-d69a-44bd-9f23-d225dd30b08b",
+		"author": "Terciob",
+		"name": "Plater Nameplates",
+		"channelType": 0,
+		"autoUpdateEnabled": false,
+		"autoUpdateNotificationsEnabled": false,
+		"clientType": 1,
+		"downloadUrl": "https://edge.forgecdn.net/files/5120/911/Plater-v576a.zip",
+		"externalUrl": "https://www.curseforge.com/wow/addons/plater-nameplates",
+		"externalId": "100547",
+		"gameVersion": "3.4.3",
+		"installedAt": "2024-02-27T15:30:03.760Z",
+		"installedFolders": "Plater",
+		"installedFolderList": [
+			"Plater"
+		],
+		"installedVersion": "Plater-v576a",
+		"installedExternalReleaseId": "5120911",
+		"isIgnored": false,
+		"latestVersion": "Plater-v576a",
+		"providerName": "Curse",
+		"thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/185/556/256/256/636828401320016782.png",
+		"screenshotUrls": [
+			"https://media.forgecdn.net/attachments/103/773/outofcombat.png",
+			"https://media.forgecdn.net/attachments/103/771/friendlyplayer.png",
+			"https://media.forgecdn.net/attachments/103/772/incombat.png"
+		],
+		"downloadCount": 47589073,
+		"summary": "Highly customizable nameplate with support to scripts and animations.",
+		"releasedAt": "2024-02-19T16:06:45.477Z",
+		"isLoadOnDemand": false,
+		"externalLatestReleaseId": "5120911",
+		"updatedAt": "2024-02-08T14:28:38.383Z",
+		"externalChannel": "Stable",
+		"installationId": "348ada82-b4cb-4758-be00-76285856f2d7",
+		"externalIds": [
+			{
+				"id": "100547",
+				"providerName": "Curse"
+			}
+		]
+	},
+	"79e8f32b-dd77-4a13-b56c-134fc261a722": {
+		"id": "79e8f32b-dd77-4a13-b56c-134fc261a722",
+		"author": "Fusionpit",
+		"name": "Quest Icon Desaturation",
+		"channelType": 0,
+		"autoUpdateEnabled": false,
+		"autoUpdateNotificationsEnabled": false,
+		"clientType": 1,
+		"downloadUrl": "https://edge.forgecdn.net/files/4720/379/QuestIconDesaturation-3.4.1.zip",
+		"externalUrl": "https://www.curseforge.com/wow/addons/quest-icon-desaturation",
+		"externalId": "334517",
+		"gameVersion": "3.4.2",
+		"installedAt": "2024-02-07T05:45:11.397Z",
+		"installedFolders": "QuestIconDesaturation",
+		"installedFolderList": [
+			"QuestIconDesaturation"
+		],
+		"installedVersion": "3.4.1",
+		"installedExternalReleaseId": "4720379",
+		"isIgnored": false,
+		"latestVersion": "3.4.1",
+		"providerName": "Curse",
+		"thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/217/852/256/256/637008948848294806.png",
+		"screenshotUrls": [
+			"https://media.forgecdn.net/attachments/259/25/quest-frame.png",
+			"https://media.forgecdn.net/attachments/259/26/qff-support.png",
+			"https://media.forgecdn.net/attachments/259/24/gossip-frame.png"
+		],
+		"downloadCount": 51467,
+		"summary": "Greys out ? icons for quests that aren't completed",
+		"releasedAt": "2023-08-24T14:40:54.280Z",
+		"isLoadOnDemand": false,
+		"externalLatestReleaseId": "4720379",
+		"updatedAt": "2024-02-07T05:45:11.398Z",
+		"externalChannel": "Stable",
+		"installationId": "348ada82-b4cb-4758-be00-76285856f2d7",
+		"externalIds": [
+			{
+				"id": "25083",
+				"providerName": "WowInterface"
+			},
+			{
+				"id": "334517",
+				"providerName": "Curse"
+			}
+		]
+	},
+	"b346cae4-6876-48d4-a266-c739ba3dc232": {
+		"id": "b346cae4-6876-48d4-a266-c739ba3dc232",
+		"author": "Aero/Logon/Muehe/TheCrux(BreakBB)/Drejjmit/Dyaxler/Schaka/Zoey/Everyone else",
+		"name": "Questie v9.4.2",
+		"channelType": 0,
+		"autoUpdateEnabled": false,
+		"autoUpdateNotificationsEnabled": false,
+		"clientType": 1,
+		"downloadUrl": "https://github.com/Questie/Questie/releases/download/v9.4.2/Questie-v9.4.2.zip",
+		"externalUrl": "https://wowup.io/addons/47671",
+		"externalId": "47671",
+		"gameVersion": "3.4.3",
+		"installedAt": "2024-02-27T15:29:48.854Z",
+		"installedFolders": "Questie",
+		"installedFolderList": [
+			"Questie"
+		],
+		"installedVersion": "9.4.2",
+		"installedExternalReleaseId": "51664",
+		"isIgnored": false,
+		"latestVersion": "9.4.2",
+		"providerName": "WowUpHub",
+		"providerSource": "GitHub",
+		"thumbnailUrl": "",
+		"fundingLinks": [],
+		"isLoadOnDemand": false,
+		"releasedAt": "2024-02-16T08:43:44.000Z",
+		"externalChannel": "Stable",
+		"externalLatestReleaseId": "51664",
+		"installationId": "348ada82-b4cb-4758-be00-76285856f2d7",
+		"screenshotUrls": [],
+		"externalIds": [
+			{
+				"id": "334372",
+				"providerName": "Curse"
+			},
+			{
+				"id": "47671",
+				"providerName": "WowUpHub"
+			}
+		]
+	},
+	"54fd0207-8076-44c8-8060-61703a6b163a": {
+		"id": "54fd0207-8076-44c8-8060-61703a6b163a",
+		"author": "artscout375",
+		"name": "SpellBook Abridged for WoW Classic",
+		"channelType": 0,
+		"autoUpdateEnabled": false,
+		"autoUpdateNotificationsEnabled": false,
+		"clientType": 1,
+		"downloadUrl": "https://edge.forgecdn.net/files/4941/505/SpellbookAbridged-2.6.11.zip",
+		"externalUrl": "https://www.curseforge.com/wow/addons/spellbook-abridged-for-wow-classic",
+		"externalId": "344483",
+		"gameVersion": "3.4.3",
+		"installedAt": "2024-02-07T05:45:33.178Z",
+		"installedFolders": "SpellbookAbridged",
+		"installedFolderList": [
+			"SpellbookAbridged"
+		],
+		"installedVersion": "SpellbookAbridged-2.6.11.zip",
+		"installedExternalReleaseId": "4941505",
+		"isIgnored": false,
+		"latestVersion": "SpellbookAbridged-2.6.11.zip",
+		"providerName": "Curse",
+		"thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/228/750/256/256/637052075995753662.jpeg",
+		"screenshotUrls": [
+			"https://media.forgecdn.net/attachments/270/266/coloroptions01.jpg",
+			"https://media.forgecdn.net/attachments/270/268/coloroptions03.jpg",
+			"https://media.forgecdn.net/attachments/266/760/spellbook-abridged-enabled-1.jpg",
+			"https://media.forgecdn.net/attachments/266/762/spellbook-abridged-disabled-1.jpg",
+			"https://media.forgecdn.net/attachments/266/761/spellbook-abridged-enabled-2.jpg",
+			"https://media.forgecdn.net/attachments/270/267/coloroptions02.jpg",
+			"https://media.forgecdn.net/attachments/266/763/spellbook-abridged-disabled-2.jpg"
+		],
+		"downloadCount": 151853,
+		"summary": "This is a filter for the Spellbook to switch between showing all spells and showing only the highest ranks.",
+		"releasedAt": "2023-12-09T00:12:22.120Z",
+		"isLoadOnDemand": false,
+		"externalLatestReleaseId": "4941505",
+		"updatedAt": "2024-02-07T05:45:33.178Z",
+		"externalChannel": "Stable",
+		"installationId": "348ada82-b4cb-4758-be00-76285856f2d7",
+		"externalIds": [
+			{
+				"id": "344483",
+				"providerName": "Curse"
+			}
+		]
+	},
+	"03415757-7e3e-442f-b77d-0c5c6a2a291a": {
+		"id": "03415757-7e3e-442f-b77d-0c5c6a2a291a",
+		"author": "The WeakAuras Team",
+		"name": "WeakAuras",
+		"channelType": 0,
+		"autoUpdateEnabled": false,
+		"autoUpdateNotificationsEnabled": false,
+		"clientType": 1,
+		"downloadUrl": "https://github.com/WeakAuras/WeakAuras2/releases/download/5.10.1/WeakAuras-5.10.1.zip",
+		"externalUrl": "https://wowup.io/addons/10",
+		"externalId": "10",
+		"gameVersion": "3.4.3",
+		"installedAt": "2024-02-27T15:29:48.854Z",
+		"installedFolders": "WeakAuras, WeakAurasOptions, WeakAurasModelPaths, WeakAurasTemplates, WeakAurasArchive",
+		"installedFolderList": [
+			"WeakAuras",
+			"WeakAurasOptions",
+			"WeakAurasModelPaths",
+			"WeakAurasTemplates",
+			"WeakAurasArchive"
+		],
+		"installedVersion": "5.10.1",
+		"installedExternalReleaseId": "51582",
+		"isIgnored": false,
+		"latestVersion": "5.10.1",
+		"providerName": "WowUpHub",
+		"providerSource": "GitHub",
+		"thumbnailUrl": "https://repository-images.githubusercontent.com/25056248/a4275280-2284-11eb-923f-74385a33f37f",
+		"fundingLinks": [
+			{
+				"platform": "PATREON",
+				"url": "https://undefined/addons/10/funding/patreon"
+			}
+		],
+		"isLoadOnDemand": false,
+		"releasedAt": "2024-02-09T09:55:21.000Z",
+		"externalChannel": "Stable",
+		"externalLatestReleaseId": "51582",
+		"installationId": "348ada82-b4cb-4758-be00-76285856f2d7",
+		"screenshotUrls": [],
+		"externalIds": [
+			{
+				"id": "24910",
+				"providerName": "WowInterface"
+			},
+			{
+				"id": "65387",
+				"providerName": "Curse"
+			},
+			{
+				"id": "10",
+				"providerName": "WowUpHub"
+			}
+		]
+	},
+	"022b682b-1ac7-41c1-8a1a-6f93efae9004": {
+		"id": "022b682b-1ac7-41c1-8a1a-6f93efae9004",
+		"author": "borjamacare, plusmouse",
+		"name": "Auctionator",
+		"channelType": 0,
+		"autoUpdateEnabled": false,
+		"autoUpdateNotificationsEnabled": false,
+		"clientType": 6,
+		"downloadUrl": "https://edge.forgecdn.net/files/5133/604/Auctionator-10.2.26-classic.zip",
+		"externalUrl": "https://www.curseforge.com/wow/addons/auctionator",
+		"externalId": "6124",
+		"gameVersion": "1.15.1",
+		"installedAt": "2024-02-27T15:30:19.200Z",
+		"installedFolders": "Auctionator",
+		"installedFolderList": [
+			"Auctionator"
+		],
+		"installedVersion": "10.2.26-classic",
+		"installedExternalReleaseId": "5133604",
+		"isIgnored": false,
+		"latestVersion": "10.2.26-classic",
+		"providerName": "Curse",
+		"thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/810/384/256/256/638182110684675083.png",
+		"screenshotUrls": [
+			"https://media.forgecdn.net/attachments/721/368/2023-screenshot-classic-shopping-1.png",
+			"https://media.forgecdn.net/attachments/721/367/2023-screenshot-classic-cancelling-1.png",
+			"https://media.forgecdn.net/attachments/548/252/2022-12-screenshot-selling.png",
+			"https://media.forgecdn.net/attachments/548/332/2022-12-screenshot-tooltip.png",
+			"https://media.forgecdn.net/attachments/667/349/2023-screenshot-new-shopping-tab-3.png",
+			"https://media.forgecdn.net/attachments/721/369/2023-screenshot-classic-tooltip-1.png",
+			"https://media.forgecdn.net/attachments/548/275/2022-12-screenshot-cancelling.png",
+			"https://media.forgecdn.net/attachments/721/366/2023-screenshot-classic-selling-1.png"
+		],
+		"downloadCount": 103809353,
+		"summary": "Makes it easier to use the auction house and track the value of items",
+		"releasedAt": "2024-02-24T20:26:56.907Z",
+		"isLoadOnDemand": false,
+		"externalLatestReleaseId": "5133604",
+		"updatedAt": "2024-02-15T15:00:31.242Z",
+		"externalChannel": "Stable",
+		"installationId": "ad25db76-9d7e-4be9-aba6-8bd5d4076951",
+		"externalIds": [
+			{
+				"id": "6124",
+				"providerName": "Curse"
+			}
+		]
+	},
+	"3129b014-d7ca-4777-a681-bea1a69f3fbc": {
+		"id": "3129b014-d7ca-4777-a681-bea1a69f3fbc",
+		"author": "jnwhiteh",
+		"name": "Clique",
+		"channelType": 0,
+		"autoUpdateEnabled": false,
+		"autoUpdateNotificationsEnabled": false,
+		"clientType": 6,
+		"downloadUrl": "https://edge.forgecdn.net/files/5039/339/Clique-v3.5.6-release.zip",
+		"externalUrl": "https://www.curseforge.com/wow/addons/clique",
+		"externalId": "15564",
+		"gameVersion": "1.15.0",
+		"installedAt": "2024-02-07T05:45:40.848Z",
+		"installedFolders": "Clique",
+		"installedFolderList": [
+			"Clique"
+		],
+		"installedVersion": "v3.5.6-release",
+		"installedExternalReleaseId": "5039339",
+		"isIgnored": false,
+		"latestVersion": "v3.5.6-release",
+		"providerName": "Curse",
+		"thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/57/431/256/256/636141406140850189.png",
+		"screenshotUrls": [
+			"https://media.forgecdn.net/attachments/88/77/Screen_shot_2010-10-12_at_11.54.07.png",
+			"https://media.forgecdn.net/attachments/88/81/Screen_shot_2010-10-12_at_11.55.28.png",
+			"https://media.forgecdn.net/attachments/88/74/Screen_shot_2010-10-12_at_11.55.21.png",
+			"https://media.forgecdn.net/attachments/88/84/Screen_shot_2010-10-12_at_12.00.19.png"
+		],
+		"downloadCount": 12099493,
+		"summary": "Simply powerful click-casting interface",
+		"releasedAt": "2024-01-17T07:12:59.043Z",
+		"isLoadOnDemand": false,
+		"externalLatestReleaseId": "5039339",
+		"updatedAt": "2024-02-07T05:45:40.848Z",
+		"externalChannel": "Stable",
+		"installationId": "ad25db76-9d7e-4be9-aba6-8bd5d4076951",
+		"externalIds": [
+			{
+				"id": "5108",
+				"providerName": "WowInterface"
+			},
+			{
+				"id": "15564",
+				"providerName": "Curse"
+			}
+		]
+	},
+	"a93c7913-622d-4124-94f0-3723b31c6a54": {
+		"id": "a93c7913-622d-4124-94f0-3723b31c6a54",
+		"author": "Leatrix",
+		"name": "Leatrix Maps (Classic Era)",
+		"channelType": 0,
+		"autoUpdateEnabled": false,
+		"autoUpdateNotificationsEnabled": false,
+		"clientType": 6,
+		"downloadUrl": "https://edge.forgecdn.net/files/5126/393/Leatrix_Maps-1.15.19-classic.zip",
+		"externalUrl": "https://www.curseforge.com/wow/addons/leatrix-maps-classic",
+		"externalId": "324034",
+		"gameVersion": "1.15.1",
+		"installedAt": "2024-02-27T15:30:18.489Z",
+		"installedFolders": "Leatrix_Maps",
+		"installedFolderList": [
+			"Leatrix_Maps"
+		],
+		"installedVersion": "1.15.19-classic",
+		"installedExternalReleaseId": "5126393",
+		"isIgnored": false,
+		"latestVersion": "1.15.19-classic",
+		"providerName": "Curse",
+		"thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/483/27/256/256/637782407908842645.png",
+		"screenshotUrls": [
+			"https://media.forgecdn.net/attachments/262/518/snap1.jpg",
+			"https://media.forgecdn.net/attachments/262/519/ltm2.jpg"
+		],
+		"downloadCount": 15915696,
+		"summary": "Enhancements for your maps.",
+		"releasedAt": "2024-02-21T21:28:01.727Z",
+		"isLoadOnDemand": false,
+		"externalLatestReleaseId": "5126393",
+		"updatedAt": "2024-02-15T15:00:30.719Z",
+		"externalChannel": "Stable",
+		"installationId": "ad25db76-9d7e-4be9-aba6-8bd5d4076951",
+		"externalIds": [
+			{
+				"id": "324034",
+				"providerName": "Curse"
+			}
+		]
+	},
+	"bdf8a29a-21e7-484a-ba1f-7e42e97c6f3b": {
+		"id": "bdf8a29a-21e7-484a-ba1f-7e42e97c6f3b",
+		"author": "Leatrix",
+		"name": "Leatrix Plus (Classic Era)",
+		"channelType": 0,
+		"autoUpdateEnabled": false,
+		"autoUpdateNotificationsEnabled": false,
+		"clientType": 6,
+		"downloadUrl": "https://edge.forgecdn.net/files/5126/394/Leatrix_Plus-1.15.19-classic.zip",
+		"externalUrl": "https://www.curseforge.com/wow/addons/leatrix-plus-classic",
+		"externalId": "322362",
+		"gameVersion": "1.15.1",
+		"installedAt": "2024-02-27T15:30:18.545Z",
+		"installedFolders": "Leatrix_Plus",
+		"installedFolderList": [
+			"Leatrix_Plus"
+		],
+		"installedVersion": "1.15.19-classic",
+		"installedExternalReleaseId": "5126394",
+		"isIgnored": false,
+		"latestVersion": "1.15.19-classic",
+		"providerName": "Curse",
+		"thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/483/31/256/256/637782408281443545.png",
+		"screenshotUrls": [
+			"https://media.forgecdn.net/attachments/316/920/leaplusyt3.jpg"
+		],
+		"downloadCount": 14473799,
+		"summary": "Powerful and modular quality of life addon with a small resource footprint.",
+		"releasedAt": "2024-02-21T21:28:06.717Z",
+		"isLoadOnDemand": false,
+		"externalLatestReleaseId": "5126394",
+		"updatedAt": "2024-02-15T15:00:30.976Z",
+		"externalChannel": "Stable",
+		"installationId": "ad25db76-9d7e-4be9-aba6-8bd5d4076951",
+		"externalIds": [
+			{
+				"id": "322362",
+				"providerName": "Curse"
+			}
+		]
+	},
+	"856f95fa-2d45-448b-9d2e-8b9b07296579": {
+		"id": "856f95fa-2d45-448b-9d2e-8b9b07296579",
+		"author": "Venomisto",
+		"name": "Nova Spell Rank Checker",
+		"channelType": 0,
+		"autoUpdateEnabled": false,
+		"autoUpdateNotificationsEnabled": false,
+		"clientType": 6,
+		"downloadUrl": "https://edge.forgecdn.net/files/4383/64/NovaSpellRankChecker-v1.2.zip",
+		"externalUrl": "https://www.curseforge.com/wow/addons/nova-spell-rank-checker",
+		"externalId": "696065",
+		"gameVersion": "3.4.1",
+		"installedAt": "2024-02-07T05:39:26.857Z",
+		"installedFolders": "NovaSpellRankChecker",
+		"installedFolderList": [
+			"NovaSpellRankChecker"
+		],
+		"installedVersion": "NovaSpellRankChecker-v1.2.zip",
+		"installedExternalReleaseId": "4383064",
+		"isIgnored": false,
+		"latestVersion": "NovaSpellRankChecker-v1.2.zip",
+		"providerName": "Curse",
+		"thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/630/502/256/256/638029868022513745.png",
+		"screenshotUrls": [
+			"https://media.forgecdn.net/attachments/511/16/nsrc_3.png",
+			"https://media.forgecdn.net/attachments/511/14/nsrc_1.png",
+			"https://media.forgecdn.net/attachments/511/15/nsrc_2.png"
+		],
+		"downloadCount": 59381,
+		"summary": "Checks your hotbar slots for low spell ranks and highlights them.",
+		"releasedAt": "2023-02-06T11:01:09.600Z",
+		"isLoadOnDemand": false,
+		"externalLatestReleaseId": "4383064",
+		"updatedAt": "2024-02-07T05:39:26.857Z",
+		"externalChannel": "Stable",
+		"installationId": "ad25db76-9d7e-4be9-aba6-8bd5d4076951",
+		"externalIds": [
+			{
+				"id": "696065",
+				"providerName": "Curse"
+			}
+		]
+	},
+	"5bd2e0c7-cb6f-40c2-81c6-c2d493728884": {
+		"id": "5bd2e0c7-cb6f-40c2-81c6-c2d493728884",
+		"author": "TravisSpomer",
+		"name": "Pawn",
+		"channelType": 0,
+		"autoUpdateEnabled": false,
+		"autoUpdateNotificationsEnabled": false,
+		"clientType": 6,
+		"downloadUrl": "https://edge.forgecdn.net/files/5133/396/Pawn-2.8.10-Classic.zip",
+		"externalUrl": "https://www.curseforge.com/wow/addons/pawn",
+		"externalId": "4646",
+		"gameVersion": "1.15.1",
+		"installedAt": "2024-02-27T15:30:18.850Z",
+		"installedFolders": "Pawn",
+		"installedFolderList": [
+			"Pawn"
+		],
+		"installedVersion": "2.8.10 (Classic)",
+		"installedExternalReleaseId": "5133396",
+		"isIgnored": false,
+		"latestVersion": "2.8.10 (Classic)",
+		"providerName": "Curse",
+		"thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/320/97/256/256/637427080899696008.jpeg",
+		"screenshotUrls": [
+			"https://media.forgecdn.net/attachments/102/344/Loot_upgrade_advisor.jpg",
+			"https://media.forgecdn.net/attachments/102/336/Pawn_-_AtlasLoot.png",
+			"https://media.forgecdn.net/attachments/200/60/relic-upgrades.jpg",
+			"https://media.forgecdn.net/attachments/102/337/Pawn_-_tooltips.png",
+			"https://media.forgecdn.net/attachments/102/338/Pawn_-_gems.png",
+			"https://media.forgecdn.net/attachments/102/346/Pawn_1.7_socketing_advisor.jpg",
+			"https://media.forgecdn.net/attachments/102/345/Pawn_options.jpg",
+			"https://media.forgecdn.net/attachments/102/333/Bag_arrows.jpg",
+			"https://media.forgecdn.net/attachments/102/335/Pawn_manual_mode.jpg",
+			"https://media.forgecdn.net/attachments/102/334/Pawn_auto_mode.jpg",
+			"https://media.forgecdn.net/attachments/102/341/Pawn_-_values.png",
+			"https://media.forgecdn.net/attachments/102/347/Pawn_s_Compare_tab.jpg",
+			"https://media.forgecdn.net/attachments/102/339/Pawn_-_auctions.jpg",
+			"https://media.forgecdn.net/attachments/102/343/Pawn_quest_advisor.jpg",
+			"https://media.forgecdn.net/attachments/102/332/AMR.jpg"
+		],
+		"downloadCount": 92526946,
+		"summary": "Pawn helps you compare items and find upgrades.",
+		"releasedAt": "2024-02-24T18:45:51.360Z",
+		"isLoadOnDemand": false,
+		"externalLatestReleaseId": "5133396",
+		"updatedAt": "2024-02-07T05:39:26.864Z",
+		"externalChannel": "Stable",
+		"installationId": "ad25db76-9d7e-4be9-aba6-8bd5d4076951",
+		"externalIds": [
+			{
+				"id": "4646",
+				"providerName": "Curse"
+			}
+		]
+	},
+	"ef4eb03a-e604-4621-b6f0-51e109d0c60a": {
+		"id": "ef4eb03a-e604-4621-b6f0-51e109d0c60a",
+		"author": "Fusionpit",
+		"name": "Quest Icon Desaturation",
+		"channelType": 0,
+		"autoUpdateEnabled": false,
+		"autoUpdateNotificationsEnabled": false,
+		"clientType": 6,
+		"downloadUrl": "https://edge.forgecdn.net/files/4720/379/QuestIconDesaturation-3.4.1.zip",
+		"externalUrl": "https://www.curseforge.com/wow/addons/quest-icon-desaturation",
+		"externalId": "334517",
+		"gameVersion": "1.14.4",
+		"installedAt": "2024-02-07T05:45:14.964Z",
+		"installedFolders": "QuestIconDesaturation",
+		"installedFolderList": [
+			"QuestIconDesaturation"
+		],
+		"installedVersion": "3.4.1",
+		"installedExternalReleaseId": "4720379",
+		"isIgnored": false,
+		"latestVersion": "3.4.1",
+		"providerName": "Curse",
+		"thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/217/852/256/256/637008948848294806.png",
+		"screenshotUrls": [
+			"https://media.forgecdn.net/attachments/259/25/quest-frame.png",
+			"https://media.forgecdn.net/attachments/259/26/qff-support.png",
+			"https://media.forgecdn.net/attachments/259/24/gossip-frame.png"
+		],
+		"downloadCount": 51467,
+		"summary": "Greys out ? icons for quests that aren't completed",
+		"releasedAt": "2023-08-24T14:40:54.280Z",
+		"isLoadOnDemand": false,
+		"externalLatestReleaseId": "4720379",
+		"updatedAt": "2024-02-07T05:45:14.965Z",
+		"externalChannel": "Stable",
+		"installationId": "ad25db76-9d7e-4be9-aba6-8bd5d4076951",
+		"externalIds": [
+			{
+				"id": "25083",
+				"providerName": "WowInterface"
+			},
+			{
+				"id": "334517",
+				"providerName": "Curse"
+			}
+		]
+	},
+	"ad4cefa7-b61e-40b7-8741-c9dd8c42cf32": {
+		"id": "ad4cefa7-b61e-40b7-8741-c9dd8c42cf32",
+		"author": "Aero/Logon/Muehe/TheCrux(BreakBB)/Drejjmit/Dyaxler/Schaka/Zoey/Everyone else",
+		"name": "Questie v9.4.2",
+		"channelType": 0,
+		"autoUpdateEnabled": false,
+		"autoUpdateNotificationsEnabled": false,
+		"clientType": 6,
+		"downloadUrl": "https://github.com/Questie/Questie/releases/download/v9.4.2/Questie-v9.4.2.zip",
+		"externalUrl": "https://wowup.io/addons/47671",
+		"externalId": "47671",
+		"gameVersion": "1.15.1",
+		"installedAt": "2024-02-27T15:30:12.635Z",
+		"installedFolders": "Questie",
+		"installedFolderList": [
+			"Questie"
+		],
+		"installedVersion": "9.4.2",
+		"installedExternalReleaseId": "51664",
+		"isIgnored": false,
+		"latestVersion": "9.4.2",
+		"providerName": "WowUpHub",
+		"providerSource": "GitHub",
+		"thumbnailUrl": "",
+		"fundingLinks": [],
+		"isLoadOnDemand": false,
+		"releasedAt": "2024-02-16T08:43:44.000Z",
+		"externalChannel": "Stable",
+		"externalLatestReleaseId": "51664",
+		"installationId": "ad25db76-9d7e-4be9-aba6-8bd5d4076951",
+		"screenshotUrls": [],
+		"externalIds": [
+			{
+				"id": "334372",
+				"providerName": "Curse"
+			},
+			{
+				"id": "47671",
+				"providerName": "WowUpHub"
+			}
+		]
+	},
+	"38ccccba-a2bf-46a9-b728-0f1819393564": {
+		"id": "38ccccba-a2bf-46a9-b728-0f1819393564",
+		"author": "The WeakAuras Team",
+		"name": "WeakAuras",
+		"channelType": 0,
+		"autoUpdateEnabled": false,
+		"autoUpdateNotificationsEnabled": false,
+		"clientType": 6,
+		"downloadUrl": "https://github.com/WeakAuras/WeakAuras2/releases/download/5.10.1/WeakAuras-5.10.1.zip",
+		"externalUrl": "https://wowup.io/addons/10",
+		"externalId": "10",
+		"gameVersion": "1.15.1",
+		"installedAt": "2024-02-27T15:30:12.635Z",
+		"installedFolders": "WeakAuras, WeakAurasOptions, WeakAurasModelPaths, WeakAurasTemplates, WeakAurasArchive",
+		"installedFolderList": [
+			"WeakAuras",
+			"WeakAurasOptions",
+			"WeakAurasModelPaths",
+			"WeakAurasTemplates",
+			"WeakAurasArchive"
+		],
+		"installedVersion": "5.10.1",
+		"installedExternalReleaseId": "51582",
+		"isIgnored": false,
+		"latestVersion": "5.10.1",
+		"providerName": "WowUpHub",
+		"providerSource": "GitHub",
+		"thumbnailUrl": "https://repository-images.githubusercontent.com/25056248/a4275280-2284-11eb-923f-74385a33f37f",
+		"fundingLinks": [
+			{
+				"platform": "PATREON",
+				"url": "https://undefined/addons/10/funding/patreon"
+			}
+		],
+		"isLoadOnDemand": false,
+		"releasedAt": "2024-02-09T09:55:21.000Z",
+		"externalChannel": "Stable",
+		"externalLatestReleaseId": "51582",
+		"installationId": "ad25db76-9d7e-4be9-aba6-8bd5d4076951",
+		"screenshotUrls": [],
+		"externalIds": [
+			{
+				"id": "24910",
+				"providerName": "WowInterface"
+			},
+			{
+				"id": "65387",
+				"providerName": "Curse"
+			},
+			{
+				"id": "10",
+				"providerName": "WowUpHub"
+			}
+		]
+	},
+	"da55da72-2318-49eb-aa58-93c273fe0f74": {
+		"id": "da55da72-2318-49eb-aa58-93c273fe0f74",
+		"author": "Fusionpit",
+		"name": "What's Training?",
+		"channelType": 0,
+		"autoUpdateEnabled": false,
+		"autoUpdateNotificationsEnabled": false,
+		"clientType": 6,
+		"downloadUrl": "https://edge.forgecdn.net/files/4941/447/WhatsTraining-5.0.3.zip",
+		"externalUrl": "https://www.curseforge.com/wow/addons/whats-training",
+		"externalId": "324944",
+		"gameVersion": "1.15.0",
+		"installedAt": "2024-02-07T05:45:41.614Z",
+		"installedFolders": "WhatsTraining",
+		"installedFolderList": [
+			"WhatsTraining"
+		],
+		"installedVersion": "5.0.3",
+		"installedExternalReleaseId": "4941447",
+		"isIgnored": false,
+		"latestVersion": "5.0.3",
+		"providerName": "Curse",
+		"thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/208/314/256/256/636973711309241148.png",
+		"screenshotUrls": [
+			"https://media.forgecdn.net/attachments/255/516/spell-mouseover.png",
+			"https://media.forgecdn.net/attachments/255/517/header-total.png",
+			"https://media.forgecdn.net/attachments/355/877/warlock_unlearned.png",
+			"https://media.forgecdn.net/attachments/355/876/warlock_beforeandafter.png",
+			"https://media.forgecdn.net/attachments/255/518/ctp-support.png"
+		],
+		"downloadCount": 2973835,
+		"summary": "Shows you what abilities are available at your class trainer",
+		"releasedAt": "2023-12-08T23:53:11.173Z",
+		"isLoadOnDemand": false,
+		"externalLatestReleaseId": "4941447",
+		"updatedAt": "2024-02-07T05:45:41.615Z",
+		"externalChannel": "Stable",
+		"installationId": "ad25db76-9d7e-4be9-aba6-8bd5d4076951",
+		"externalIds": [
+			{
+				"id": "25031",
+				"providerName": "WowInterface"
+			},
+			{
+				"id": "324944",
+				"providerName": "Curse"
+			}
+		]
+	},
+	"892edad2-8040-4e4d-93e8-c4b31dbdd151": {
+		"id": "892edad2-8040-4e4d-93e8-c4b31dbdd151",
+		"name": "Bagnon",
+		"thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/647/705/256/256/638048338012580367.png",
+		"latestVersion": "10.2.19",
+		"clientType": 6,
+		"externalId": "1592",
+		"gameVersion": "1.15.1",
+		"author": "jaliborc",
+		"downloadUrl": "https://edge.forgecdn.net/files/5105/826/Bagnon-10.2.19.zip",
+		"externalUrl": "https://www.curseforge.com/wow/addons/bagnon",
+		"providerName": "Curse",
+		"channelType": 0,
+		"isIgnored": false,
+		"autoUpdateEnabled": false,
+		"autoUpdateNotificationsEnabled": false,
+		"releasedAt": "2024-02-13T20:16:51.063Z",
+		"summary": "All in one displays for your inventory, bank, guild and vault",
+		"screenshotUrls": [
+			"https://media.forgecdn.net/attachments/222/768/watsup.jpg"
+		],
+		"dependencies": [
+			{
+				"externalAddonId": "29683",
+				"type": 1
+			},
+			{
+				"externalAddonId": "21538",
+				"type": 1
+			},
+			{
+				"externalAddonId": "338963",
+				"type": 1
+			},
+			{
+				"externalAddonId": "359170",
+				"type": 1
+			},
+			{
+				"externalAddonId": "338958",
+				"type": 1
+			},
+			{
+				"externalAddonId": "358535",
+				"type": 1
+			},
+			{
+				"externalAddonId": "358824",
+				"type": 1
+			},
+			{
+				"externalAddonId": "5422",
+				"type": 3
+			},
+			{
+				"externalAddonId": "339139",
+				"type": 4
+			},
+			{
+				"externalAddonId": "20283",
+				"type": 4
+			},
+			{
+				"externalAddonId": "22373",
+				"type": 1
+			},
+			{
+				"externalAddonId": "711577",
+				"type": 1
+			},
+			{
+				"externalAddonId": "338957",
+				"type": 1
+			}
+		],
+		"externalChannel": "Stable",
+		"isLoadOnDemand": false,
+		"externalLatestReleaseId": "5105826",
+		"fundingLinks": [],
+		"latestChangelogVersion": "10.2.19",
+		"installationId": "ad25db76-9d7e-4be9-aba6-8bd5d4076951",
+		"installedFolderList": [
+			"BagBrother",
+			"Bagnon",
+			"Bagnon_Config",
+			"Bagnon_GuildBank",
+			"Bagnon_VoidStorage"
+		],
+		"installedExternalReleaseId": "5105826",
+		"installedVersion": "10.2.19",
+		"installedAt": "2024-02-27T15:30:27.897Z",
+		"installedFolders": "BagBrother,Bagnon,Bagnon_Config,Bagnon_GuildBank,Bagnon_VoidStorage",
+		"externalIds": [
+			{
+				"id": "1592",
+				"providerName": "Curse"
+			}
+		]
+	},
+	"5015af11-37ce-49c8-8203-bea165b704d2": {
+		"id": "5015af11-37ce-49c8-8203-bea165b704d2",
+		"name": "Bagnon",
+		"thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/647/705/256/256/638048338012580367.png",
+		"latestVersion": "10.2.19",
+		"clientType": 1,
+		"externalId": "1592",
+		"gameVersion": "3.4.3",
+		"author": "jaliborc",
+		"downloadUrl": "https://edge.forgecdn.net/files/5105/826/Bagnon-10.2.19.zip",
+		"externalUrl": "https://www.curseforge.com/wow/addons/bagnon",
+		"providerName": "Curse",
+		"channelType": 0,
+		"isIgnored": false,
+		"autoUpdateEnabled": false,
+		"autoUpdateNotificationsEnabled": false,
+		"releasedAt": "2024-02-13T20:16:51.063Z",
+		"summary": "All in one displays for your inventory, bank, guild and vault",
+		"screenshotUrls": [
+			"https://media.forgecdn.net/attachments/222/768/watsup.jpg"
+		],
+		"dependencies": [
+			{
+				"externalAddonId": "29683",
+				"type": 1
+			},
+			{
+				"externalAddonId": "21538",
+				"type": 1
+			},
+			{
+				"externalAddonId": "338963",
+				"type": 1
+			},
+			{
+				"externalAddonId": "359170",
+				"type": 1
+			},
+			{
+				"externalAddonId": "338958",
+				"type": 1
+			},
+			{
+				"externalAddonId": "358535",
+				"type": 1
+			},
+			{
+				"externalAddonId": "358824",
+				"type": 1
+			},
+			{
+				"externalAddonId": "5422",
+				"type": 3
+			},
+			{
+				"externalAddonId": "339139",
+				"type": 4
+			},
+			{
+				"externalAddonId": "20283",
+				"type": 4
+			},
+			{
+				"externalAddonId": "22373",
+				"type": 1
+			},
+			{
+				"externalAddonId": "711577",
+				"type": 1
+			},
+			{
+				"externalAddonId": "338957",
+				"type": 1
+			}
+		],
+		"externalChannel": "Stable",
+		"isLoadOnDemand": false,
+		"externalLatestReleaseId": "5105826",
+		"fundingLinks": [],
+		"latestChangelogVersion": "10.2.19",
+		"installationId": "348ada82-b4cb-4758-be00-76285856f2d7",
+		"installedFolderList": [
+			"BagBrother",
+			"Bagnon",
+			"Bagnon_Config",
+			"Bagnon_GuildBank",
+			"Bagnon_VoidStorage"
+		],
+		"installedExternalReleaseId": "5105826",
+		"installedVersion": "10.2.19",
+		"installedAt": "2024-02-27T15:30:36.273Z",
+		"installedFolders": "BagBrother,Bagnon,Bagnon_Config,Bagnon_GuildBank,Bagnon_VoidStorage",
+		"externalIds": [
+			{
+				"id": "1592",
 				"providerName": "Curse"
 			}
 		]

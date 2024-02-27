@@ -2520,3 +2520,1333 @@
 [2024-02-19 16:13:24.939] [info]  [POST] https://hub.wowup.io/addons/batch 200 631ms
 [2024-02-19 16:13:25.273] [info]  Checking for addon updates...
 [2024-02-19 16:13:39.316] [info]  window config saved
+[2024-02-26 23:04:46.614] [info]  Main starting
+[2024-02-26 23:04:46.620] [info]  Electron: 26.2.0
+[2024-02-26 23:04:46.620] [info]  BinaryPath: /tmp/.mount_WowUp-l8IBDk/wowup-cf
+[2024-02-26 23:04:46.620] [info]  ExecPath /tmp/.mount_WowUp-l8IBDk/wowup-cf
+[2024-02-26 23:04:46.620] [info]  Args [ '/tmp/.mount_WowUp-l8IBDk/wowup-cf' ]
+[2024-02-26 23:04:46.621] [info]  Log path: /home/colby/.config/WowUpCf/logs
+[2024-02-26 23:04:46.622] [info]  ARGV { _: [], serve: false, hidden: false }
+[2024-02-26 23:04:46.622] [info]  USER_AGENT WowUp-Client/2.11.0 (Linux; 6.7.6-Venom; x64; CF;  +https://wowup.io)
+[2024-02-26 23:04:46.650] [info]  Hardware acceleration enabled
+[2024-02-26 23:04:47.092] [info]  App ready: 471ms
+[2024-02-26 23:04:47.172] [info]  process.versions {
+  node: '18.16.1',
+  acorn: '8.8.2',
+  ada: '1.0.4',
+  ares: '1.19.1',
+  brotli: '1.0.9',
+  cldr: '43.0',
+  icu: '73.1',
+  llhttp: '6.0.11',
+  modules: '116',
+  napi: '8',
+  nghttp2: '1.52.0',
+  openssl: '1.1.1',
+  simdutf: '3.2.2',
+  tz: '2023c',
+  undici: '5.21.0',
+  unicode: '15.0',
+  uv: '1.44.2',
+  uvwasi: '0.0.15',
+  v8: '11.6.189.20-electron.0',
+  zlib: '1.2.13.1-motley',
+  electron: '26.2.0',
+  chrome: '116.0.5845.179'
+}
+[2024-02-26 23:04:47.174] [info]  Loading app URL: 553ms
+[2024-02-26 23:04:47.850] [info]  Checking for update
+[2024-02-26 23:04:47.850] [info]  autoUpdater checking-for-update
+[2024-02-26 23:04:48.149] [info]  Platform linux true
+[2024-02-26 23:04:48.151] [info]  [CreateDirectory] '/home/colby/.config/WowUpCf/downloads'
+[2024-02-26 23:04:48.166] [info]  Language setup start
+[2024-02-26 23:04:48.168] [info]  getStartMinimized undefined undefined
+[2024-02-26 23:04:48.170] [info]  Set Language Preference: en
+[2024-02-26 23:04:48.177] [info]  loginItemSettings { __zone_symbol__state: null, __zone_symbol__value: [] }
+[2024-02-26 23:04:48.179] [info]  [GET] ./assets/i18n/en.json 200 10ms
+[2024-02-26 23:04:48.198] [info]  using locale en
+[2024-02-26 23:04:48.205] [error] Failed to search for Lutris library location Error
+    at file:///tmp/.mount_WowUp-l8IBDk/resources/app.asar/dist/main.f421da7cf63015b0.js:1:1328809
+    at Generator.next (<anonymous>)
+    at MK (file:///tmp/.mount_WowUp-l8IBDk/resources/app.asar/dist/main.f421da7cf63015b0.js:1:737613)
+    at a (file:///tmp/.mount_WowUp-l8IBDk/resources/app.asar/dist/main.f421da7cf63015b0.js:1:737816)
+    at v.invoke (file:///tmp/.mount_WowUp-l8IBDk/resources/app.asar/dist/polyfills.74362bc7c9f71f5d.js:1:6583)
+    at Object.onInvoke (file:///tmp/.mount_WowUp-l8IBDk/resources/app.asar/dist/main.f421da7cf63015b0.js:1:634704)
+    at v.invoke (file:///tmp/.mount_WowUp-l8IBDk/resources/app.asar/dist/polyfills.74362bc7c9f71f5d.js:1:6523)
+    at L.run (file:///tmp/.mount_WowUp-l8IBDk/resources/app.asar/dist/polyfills.74362bc7c9f71f5d.js:1:1964)
+    at file:///tmp/.mount_WowUp-l8IBDk/resources/app.asar/dist/polyfills.74362bc7c9f71f5d.js:1:16722
+    at v.invokeTask (file:///tmp/.mount_WowUp-l8IBDk/resources/app.asar/dist/polyfills.74362bc7c9f71f5d.js:1:7201)
+[2024-02-26 23:04:48.205] [error] Failed to search for blizzard products Error: Lutris library not found
+    at file:///tmp/.mount_WowUp-l8IBDk/resources/app.asar/dist/main.f421da7cf63015b0.js:1:1327700
+    at Generator.next (<anonymous>)
+    at MK (file:///tmp/.mount_WowUp-l8IBDk/resources/app.asar/dist/main.f421da7cf63015b0.js:1:737613)
+    at a (file:///tmp/.mount_WowUp-l8IBDk/resources/app.asar/dist/main.f421da7cf63015b0.js:1:737816)
+    at v.invoke (file:///tmp/.mount_WowUp-l8IBDk/resources/app.asar/dist/polyfills.74362bc7c9f71f5d.js:1:6583)
+    at Object.onInvoke (file:///tmp/.mount_WowUp-l8IBDk/resources/app.asar/dist/main.f421da7cf63015b0.js:1:634704)
+    at v.invoke (file:///tmp/.mount_WowUp-l8IBDk/resources/app.asar/dist/polyfills.74362bc7c9f71f5d.js:1:6523)
+    at L.run (file:///tmp/.mount_WowUp-l8IBDk/resources/app.asar/dist/polyfills.74362bc7c9f71f5d.js:1:1964)
+    at file:///tmp/.mount_WowUp-l8IBDk/resources/app.asar/dist/polyfills.74362bc7c9f71f5d.js:1:16722
+    at v.invokeTask (file:///tmp/.mount_WowUp-l8IBDk/resources/app.asar/dist/polyfills.74362bc7c9f71f5d.js:1:7201)
+[2024-02-26 23:04:48.210] [info]  Language setup complete
+[2024-02-26 23:04:48.210] [info]  Cannot import wow installations, no agent path
+[2024-02-26 23:04:48.224] [info]  onAutoUpdateInterval
+[2024-02-26 23:04:48.225] [info]  WowUpProtocolService 
+[2024-02-26 23:04:48.233] [info]  Creating app menu
+[2024-02-26 23:04:48.261] [info]  zoomPref undefined
+[2024-02-26 23:04:48.262] [info]  App menu created true
+[2024-02-26 23:04:48.263] [info]  Creating tray
+[2024-02-26 23:04:48.278] [info]  Tray created true
+[2024-02-26 23:04:48.313] [info]  Set Language Preference: en
+[2024-02-26 23:04:48.633] [info]  Update for version 2.11.0 is not available (latest version: 2.11.0, downgrade is disallowed).
+[2024-02-26 23:04:48.633] [info]  autoUpdater update-not-available {
+  tag: 'v2.11.0',
+  version: '2.11.0',
+  files: [
+    {
+      url: 'WowUp-CF-2.11.0.AppImage',
+      sha512: 'zM+FkgE6M70PHkJVpup2zDbDZZ6q6hYsP+y2eRIk8eOrZ/PVsnyheDAJQjqrO0k7zA60hQojlmXbykvVwpTATw==',
+      size: 120553003,
+      blockMapSize: 126527
+    }
+  ],
+  path: 'WowUp-CF-2.11.0.AppImage',
+  sha512: 'zM+FkgE6M70PHkJVpup2zDbDZZ6q6hYsP+y2eRIk8eOrZ/PVsnyheDAJQjqrO0k7zA60hQojlmXbykvVwpTATw==',
+  releaseDate: '2024-02-05T17:09:55.424Z',
+  releaseName: '2.11.0',
+  releaseNotes: '<p>Lots of changes</p>'
+}
+[2024-02-26 23:04:48.633] [info]  checkForUpdates {
+  versionInfo: {
+    tag: 'v2.11.0',
+    version: '2.11.0',
+    files: [
+      {
+        url: 'WowUp-CF-2.11.0.AppImage',
+        sha512: 'zM+FkgE6M70PHkJVpup2zDbDZZ6q6hYsP+y2eRIk8eOrZ/PVsnyheDAJQjqrO0k7zA60hQojlmXbykvVwpTATw==',
+        size: 120553003,
+        blockMapSize: 126527
+      }
+    ],
+    path: 'WowUp-CF-2.11.0.AppImage',
+    sha512: 'zM+FkgE6M70PHkJVpup2zDbDZZ6q6hYsP+y2eRIk8eOrZ/PVsnyheDAJQjqrO0k7zA60hQojlmXbykvVwpTATw==',
+    releaseDate: '2024-02-05T17:09:55.424Z',
+    releaseName: '2.11.0',
+    releaseNotes: '<p>Lots of changes</p>'
+  }
+}
+[2024-02-26 23:04:48.753] [info]  Checking for addon updates...
+[2024-02-26 23:04:48.822] [warn]  AG Grid: Since v31, 'columnApi.applyColumnState' is deprecated and moved to 'api.applyColumnState'.
+[2024-02-26 23:04:48.832] [info]  IPC_APP_UPDATE_STATE app-update-state
+[2024-02-26 23:04:48.832] [info]  { state: 3 }
+[2024-02-26 23:04:48.839] [info]  getCollapseToTray false
+[2024-02-26 23:04:48.842] [info]  Set Language Preference: en
+[2024-02-26 23:04:48.848] [info]  getStartMinimized undefined undefined
+[2024-02-26 23:04:48.862] [warn]  AG Grid: Since v31, 'columnApi.getColumnState' is deprecated and moved to 'api.getColumnState'.
+[2024-02-26 23:04:48.870] [warn]  AG Grid: setRowData is deprecated. Please use 'api.setGridOption('rowData', newValue)' or 'api.updateGridOptions({ rowData: newValue })' instead.
+[2024-02-26 23:04:48.910] [info]  [POST] https://hub.wowup.io/addons/batch 200 642ms
+[2024-02-26 23:04:48.977] [warn]  AG Grid: Since v31, 'columnApi.autoSizeColumns' is deprecated and moved to 'api.autoSizeColumns'.
+[2024-02-26 23:04:49.266] [info]  Checking for addon updates...
+[2024-02-26 23:04:50.843] [info]  [AddonUpdate] Curse 94855 Leatrix Plus (Dragonflight) '10.2.15' -> '10.2.16'
+[2024-02-26 23:04:50.845] [info]  [AddonUpdate] Curse 298842 Leatrix Maps (Dragonflight) '10.2.15' -> '10.2.16'
+[2024-02-26 23:04:50.845] [info]  [AddonUpdate] Curse 4646 Pawn '2.8.9' -> '2.8.10'
+[2024-02-26 23:04:50.847] [info]  [DownloadFile] 'https://edge.forgecdn.net/files/5126/377/Leatrix_Maps-10.2.16.zip' -> '/home/colby/.config/WowUpCf/downloads/ZgxArHxT36IMtNRPiE_9D-leatrix-maps-dragonflight.zip'
+[2024-02-26 23:04:50.848] [info]  [DownloadFile] 'https://edge.forgecdn.net/files/5126/379/Leatrix_Plus-10.2.16.zip' -> '/home/colby/.config/WowUpCf/downloads/28DdHfr-m-_O4GypNmlUK-leatrix-plus-dragonflight.zip'
+[2024-02-26 23:04:50.849] [info]  [DownloadFile] 'https://edge.forgecdn.net/files/5133/401/Pawn-2.8.10.zip' -> '/home/colby/.config/WowUpCf/downloads/B2POnBklxhXp2sQZRhKjv-pawn.zip'
+[2024-02-26 23:04:50.997] [info]  [download] caught redirect 302 https://mediafilez.forgecdn.net/files/5126/377/Leatrix_Maps-10.2.16.zip
+[2024-02-26 23:04:51.017] [info]  [download] caught redirect 302 https://mediafilez.forgecdn.net/files/5133/401/Pawn-2.8.10.zip
+[2024-02-26 23:04:51.017] [info]  [download] caught redirect 302 https://mediafilez.forgecdn.net/files/5126/379/Leatrix_Plus-10.2.16.zip
+[2024-02-26 23:04:51.206] [debug] Write: [10] 77788
+[2024-02-26 23:04:51.218] [debug] Write: [15] 116615
+[2024-02-26 23:04:51.226] [debug] Write: [20] 149347
+[2024-02-26 23:04:51.260] [debug] Write: [25] 35178
+[2024-02-26 23:04:51.262] [debug] Write: [35] 261043
+[2024-02-26 23:04:51.267] [debug] Write: [40] 293775
+[2024-02-26 23:04:51.286] [debug] Write: [60] 441069
+[2024-02-26 23:04:51.298] [debug] Write: [100] 138355
+[2024-02-26 23:04:51.310] [info]  [CreateDirectory] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Leatrix_Maps-bak'
+[2024-02-26 23:04:51.311] [debug] Write: [85] 621329
+[2024-02-26 23:04:51.312] [info]  [FileCopy] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Leatrix_Maps' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Leatrix_Maps-bak'
+[2024-02-26 23:04:51.318] [debug] Write: [100] 729782
+[2024-02-26 23:04:51.330] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Leatrix_Maps
+[2024-02-26 23:04:51.330] [info]  [CreateDirectory] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Pawn-bak'
+[2024-02-26 23:04:51.332] [info]  [FileCopy] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Pawn' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Pawn-bak'
+[2024-02-26 23:04:51.334] [info]  unzipFile /home/colby/.config/WowUpCf/downloads/ZgxArHxT36IMtNRPiE_9D-leatrix-maps-dragonflight.zip
+[2024-02-26 23:04:51.340] [debug] Write: [100] 433450
+[2024-02-26 23:04:51.354] [info]  [CreateDirectory] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Leatrix_Plus-bak'
+[2024-02-26 23:04:51.355] [info]  [FileCopy] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Leatrix_Plus' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Leatrix_Plus-bak'
+[2024-02-26 23:04:51.373] [info]  [FileCopy] '/home/colby/.config/WowUpCf/downloads/8IAOiX9Ukpdtgm7qT35vN/Leatrix_Maps' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Leatrix_Maps'
+[2024-02-26 23:04:51.379] [info]  [RemovePath]: /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Leatrix_Maps-bak
+[2024-02-26 23:04:51.380] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Leatrix_Maps-bak
+[2024-02-26 23:04:51.382] [info]  [AddedDirs] Curse 298842 Leatrix Maps (Dragonflight) 
+[2024-02-26 23:04:51.383] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Leatrix_Plus
+[2024-02-26 23:04:51.386] [info]  unzipFile /home/colby/.config/WowUpCf/downloads/28DdHfr-m-_O4GypNmlUK-leatrix-plus-dragonflight.zip
+[2024-02-26 23:04:51.413] [info]  [AddonUpdateComplete] Curse 298842 Leatrix Maps (Dragonflight) 10.2.16
+[2024-02-26 23:04:51.454] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Pawn
+[2024-02-26 23:04:51.454] [info]  [FileRemove] /home/colby/.config/WowUpCf/downloads/8IAOiX9Ukpdtgm7qT35vN
+[2024-02-26 23:04:51.458] [info]  [FileCopy] '/home/colby/.config/WowUpCf/downloads/0eO0EMqzcJYKuVvddP1kP/Leatrix_Plus' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Leatrix_Plus'
+[2024-02-26 23:04:51.459] [info]  [FileRemove] /home/colby/.config/WowUpCf/downloads/ZgxArHxT36IMtNRPiE_9D-leatrix-maps-dragonflight.zip
+[2024-02-26 23:04:51.460] [info]  unzipFile /home/colby/.config/WowUpCf/downloads/B2POnBklxhXp2sQZRhKjv-pawn.zip
+[2024-02-26 23:04:51.464] [info]  Install complete Leatrix Maps (Dragonflight)
+[2024-02-26 23:04:51.464] [info]  [AddonUpdate] Curse 6124 Auctionator '10.2.25' -> '10.2.26'
+[2024-02-26 23:04:51.465] [info]  [DownloadFile] 'https://edge.forgecdn.net/files/5133/603/Auctionator-10.2.26.zip' -> '/home/colby/.config/WowUpCf/downloads/wZt9bA2F47rHZepb_Kqyq-auctionator.zip'
+[2024-02-26 23:04:51.474] [info]  [RemovePath]: /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Leatrix_Plus-bak
+[2024-02-26 23:04:51.474] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Leatrix_Plus-bak
+[2024-02-26 23:04:51.477] [info]  [AddedDirs] Curse 94855 Leatrix Plus (Dragonflight) 
+[2024-02-26 23:04:51.485] [info]  [AddonUpdateComplete] Curse 94855 Leatrix Plus (Dragonflight) 10.2.16
+[2024-02-26 23:04:51.507] [info]  [FileRemove] /home/colby/.config/WowUpCf/downloads/0eO0EMqzcJYKuVvddP1kP
+[2024-02-26 23:04:51.510] [info]  [FileRemove] /home/colby/.config/WowUpCf/downloads/28DdHfr-m-_O4GypNmlUK-leatrix-plus-dragonflight.zip
+[2024-02-26 23:04:51.512] [info]  Install complete Leatrix Plus (Dragonflight)
+[2024-02-26 23:04:51.529] [info]  [FileCopy] '/home/colby/.config/WowUpCf/downloads/5w7GJKT0E6eBPzT4y5f1D/Pawn' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Pawn'
+[2024-02-26 23:04:51.530] [info]  [download] caught redirect 302 https://mediafilez.forgecdn.net/files/5133/603/Auctionator-10.2.26.zip
+[2024-02-26 23:04:51.545] [info]  [RemovePath]: /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Pawn-bak
+[2024-02-26 23:04:51.545] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Pawn-bak
+[2024-02-26 23:04:51.548] [info]  [AddedDirs] Curse 4646 Pawn 
+[2024-02-26 23:04:51.555] [info]  [AddonUpdateComplete] Curse 4646 Pawn 2.8.10
+[2024-02-26 23:04:51.576] [debug] Write: [25] 146895
+[2024-02-26 23:04:51.580] [debug] Write: [55] 325949
+[2024-02-26 23:04:51.587] [debug] Write: [100] 583353
+[2024-02-26 23:04:51.588] [info]  [FileRemove] /home/colby/.config/WowUpCf/downloads/5w7GJKT0E6eBPzT4y5f1D
+[2024-02-26 23:04:51.594] [info]  [FileRemove] /home/colby/.config/WowUpCf/downloads/B2POnBklxhXp2sQZRhKjv-pawn.zip
+[2024-02-26 23:04:51.599] [info]  Install complete Pawn
+[2024-02-26 23:04:51.601] [info]  [CreateDirectory] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Auctionator-bak'
+[2024-02-26 23:04:51.602] [info]  [FileCopy] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Auctionator' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Auctionator-bak'
+[2024-02-26 23:04:51.891] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Auctionator
+[2024-02-26 23:04:51.915] [info]  unzipFile /home/colby/.config/WowUpCf/downloads/wZt9bA2F47rHZepb_Kqyq-auctionator.zip
+[2024-02-26 23:04:52.199] [info]  [FileCopy] '/home/colby/.config/WowUpCf/downloads/YD0rIGQfmvrzoXFoZAK22/Auctionator' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Auctionator'
+[2024-02-26 23:04:52.337] [info]  [RemovePath]: /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Auctionator-bak
+[2024-02-26 23:04:52.337] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_retail_/Interface/AddOns/Auctionator-bak
+[2024-02-26 23:04:52.356] [info]  [AddedDirs] Curse 6124 Auctionator 
+[2024-02-26 23:04:52.372] [info]  [AddonUpdateComplete] Curse 6124 Auctionator 10.2.26
+[2024-02-26 23:04:52.414] [info]  [FileRemove] /home/colby/.config/WowUpCf/downloads/YD0rIGQfmvrzoXFoZAK22
+[2024-02-26 23:04:52.435] [info]  [FileRemove] /home/colby/.config/WowUpCf/downloads/wZt9bA2F47rHZepb_Kqyq-auctionator.zip
+[2024-02-26 23:04:52.436] [info]  Install complete Auctionator
+[2024-02-26 23:04:56.653] [info]  window config saved
+[2024-02-27 09:28:59.866] [info]  Main starting
+[2024-02-27 09:28:59.873] [info]  Electron: 26.2.0
+[2024-02-27 09:28:59.873] [info]  BinaryPath: /tmp/.mount_WowUp-qxdBtd/wowup-cf
+[2024-02-27 09:28:59.873] [info]  ExecPath /tmp/.mount_WowUp-qxdBtd/wowup-cf
+[2024-02-27 09:28:59.874] [info]  Args [ '/tmp/.mount_WowUp-qxdBtd/wowup-cf' ]
+[2024-02-27 09:28:59.874] [info]  Log path: /home/colby/.config/WowUpCf/logs
+[2024-02-27 09:28:59.876] [info]  ARGV { _: [], serve: false, hidden: false }
+[2024-02-27 09:28:59.876] [info]  USER_AGENT WowUp-Client/2.11.0 (Linux; 6.7.6-Venom; x64; CF;  +https://wowup.io)
+[2024-02-27 09:28:59.903] [info]  Hardware acceleration enabled
+[2024-02-27 09:29:00.320] [info]  App ready: 445ms
+[2024-02-27 09:29:00.418] [info]  process.versions {
+  node: '18.16.1',
+  acorn: '8.8.2',
+  ada: '1.0.4',
+  ares: '1.19.1',
+  brotli: '1.0.9',
+  cldr: '43.0',
+  icu: '73.1',
+  llhttp: '6.0.11',
+  modules: '116',
+  napi: '8',
+  nghttp2: '1.52.0',
+  openssl: '1.1.1',
+  simdutf: '3.2.2',
+  tz: '2023c',
+  undici: '5.21.0',
+  unicode: '15.0',
+  uv: '1.44.2',
+  uvwasi: '0.0.15',
+  v8: '11.6.189.20-electron.0',
+  zlib: '1.2.13.1-motley',
+  electron: '26.2.0',
+  chrome: '116.0.5845.179'
+}
+[2024-02-27 09:29:00.419] [info]  Loading app URL: 544ms
+[2024-02-27 09:29:01.125] [info]  Checking for update
+[2024-02-27 09:29:01.126] [info]  autoUpdater checking-for-update
+[2024-02-27 09:29:01.465] [info]  Platform linux true
+[2024-02-27 09:29:01.466] [info]  [CreateDirectory] '/home/colby/.config/WowUpCf/downloads'
+[2024-02-27 09:29:01.482] [info]  Language setup start
+[2024-02-27 09:29:01.483] [info]  getStartMinimized undefined undefined
+[2024-02-27 09:29:01.485] [info]  Set Language Preference: en
+[2024-02-27 09:29:01.493] [info]  loginItemSettings { __zone_symbol__state: null, __zone_symbol__value: [] }
+[2024-02-27 09:29:01.495] [info]  [GET] ./assets/i18n/en.json 200 9ms
+[2024-02-27 09:29:01.516] [info]  using locale en
+[2024-02-27 09:29:01.522] [error] Failed to search for Lutris library location Error
+    at file:///tmp/.mount_WowUp-qxdBtd/resources/app.asar/dist/main.f421da7cf63015b0.js:1:1328809
+    at Generator.next (<anonymous>)
+    at MK (file:///tmp/.mount_WowUp-qxdBtd/resources/app.asar/dist/main.f421da7cf63015b0.js:1:737613)
+    at a (file:///tmp/.mount_WowUp-qxdBtd/resources/app.asar/dist/main.f421da7cf63015b0.js:1:737816)
+    at v.invoke (file:///tmp/.mount_WowUp-qxdBtd/resources/app.asar/dist/polyfills.74362bc7c9f71f5d.js:1:6583)
+    at Object.onInvoke (file:///tmp/.mount_WowUp-qxdBtd/resources/app.asar/dist/main.f421da7cf63015b0.js:1:634704)
+    at v.invoke (file:///tmp/.mount_WowUp-qxdBtd/resources/app.asar/dist/polyfills.74362bc7c9f71f5d.js:1:6523)
+    at L.run (file:///tmp/.mount_WowUp-qxdBtd/resources/app.asar/dist/polyfills.74362bc7c9f71f5d.js:1:1964)
+    at file:///tmp/.mount_WowUp-qxdBtd/resources/app.asar/dist/polyfills.74362bc7c9f71f5d.js:1:16722
+    at v.invokeTask (file:///tmp/.mount_WowUp-qxdBtd/resources/app.asar/dist/polyfills.74362bc7c9f71f5d.js:1:7201)
+[2024-02-27 09:29:01.522] [error] Failed to search for blizzard products Error: Lutris library not found
+    at file:///tmp/.mount_WowUp-qxdBtd/resources/app.asar/dist/main.f421da7cf63015b0.js:1:1327700
+    at Generator.next (<anonymous>)
+    at MK (file:///tmp/.mount_WowUp-qxdBtd/resources/app.asar/dist/main.f421da7cf63015b0.js:1:737613)
+    at a (file:///tmp/.mount_WowUp-qxdBtd/resources/app.asar/dist/main.f421da7cf63015b0.js:1:737816)
+    at v.invoke (file:///tmp/.mount_WowUp-qxdBtd/resources/app.asar/dist/polyfills.74362bc7c9f71f5d.js:1:6583)
+    at Object.onInvoke (file:///tmp/.mount_WowUp-qxdBtd/resources/app.asar/dist/main.f421da7cf63015b0.js:1:634704)
+    at v.invoke (file:///tmp/.mount_WowUp-qxdBtd/resources/app.asar/dist/polyfills.74362bc7c9f71f5d.js:1:6523)
+    at L.run (file:///tmp/.mount_WowUp-qxdBtd/resources/app.asar/dist/polyfills.74362bc7c9f71f5d.js:1:1964)
+    at file:///tmp/.mount_WowUp-qxdBtd/resources/app.asar/dist/polyfills.74362bc7c9f71f5d.js:1:16722
+    at v.invokeTask (file:///tmp/.mount_WowUp-qxdBtd/resources/app.asar/dist/polyfills.74362bc7c9f71f5d.js:1:7201)
+[2024-02-27 09:29:01.527] [info]  Language setup complete
+[2024-02-27 09:29:01.528] [info]  Cannot import wow installations, no agent path
+[2024-02-27 09:29:01.537] [info]  onAutoUpdateInterval
+[2024-02-27 09:29:01.538] [info]  WowUpProtocolService 
+[2024-02-27 09:29:01.544] [info]  Creating app menu
+[2024-02-27 09:29:01.573] [info]  zoomPref undefined
+[2024-02-27 09:29:01.574] [info]  App menu created true
+[2024-02-27 09:29:01.575] [info]  Creating tray
+[2024-02-27 09:29:01.591] [info]  Tray created true
+[2024-02-27 09:29:01.627] [info]  Set Language Preference: en
+[2024-02-27 09:29:02.067] [info]  Checking for addon updates...
+[2024-02-27 09:29:02.088] [info]  Update for version 2.11.0 is not available (latest version: 2.11.0, downgrade is disallowed).
+[2024-02-27 09:29:02.089] [info]  autoUpdater update-not-available {
+  tag: 'v2.11.0',
+  version: '2.11.0',
+  files: [
+    {
+      url: 'WowUp-CF-2.11.0.AppImage',
+      sha512: 'zM+FkgE6M70PHkJVpup2zDbDZZ6q6hYsP+y2eRIk8eOrZ/PVsnyheDAJQjqrO0k7zA60hQojlmXbykvVwpTATw==',
+      size: 120553003,
+      blockMapSize: 126527
+    }
+  ],
+  path: 'WowUp-CF-2.11.0.AppImage',
+  sha512: 'zM+FkgE6M70PHkJVpup2zDbDZZ6q6hYsP+y2eRIk8eOrZ/PVsnyheDAJQjqrO0k7zA60hQojlmXbykvVwpTATw==',
+  releaseDate: '2024-02-05T17:09:55.424Z',
+  releaseName: '2.11.0',
+  releaseNotes: '<p>Lots of changes</p>'
+}
+[2024-02-27 09:29:02.090] [info]  checkForUpdates {
+  versionInfo: {
+    tag: 'v2.11.0',
+    version: '2.11.0',
+    files: [
+      {
+        url: 'WowUp-CF-2.11.0.AppImage',
+        sha512: 'zM+FkgE6M70PHkJVpup2zDbDZZ6q6hYsP+y2eRIk8eOrZ/PVsnyheDAJQjqrO0k7zA60hQojlmXbykvVwpTATw==',
+        size: 120553003,
+        blockMapSize: 126527
+      }
+    ],
+    path: 'WowUp-CF-2.11.0.AppImage',
+    sha512: 'zM+FkgE6M70PHkJVpup2zDbDZZ6q6hYsP+y2eRIk8eOrZ/PVsnyheDAJQjqrO0k7zA60hQojlmXbykvVwpTATw==',
+    releaseDate: '2024-02-05T17:09:55.424Z',
+    releaseName: '2.11.0',
+    releaseNotes: '<p>Lots of changes</p>'
+  }
+}
+[2024-02-27 09:29:02.137] [warn]  AG Grid: Since v31, 'columnApi.applyColumnState' is deprecated and moved to 'api.applyColumnState'.
+[2024-02-27 09:29:02.153] [info]  getCollapseToTray false
+[2024-02-27 09:29:02.155] [info]  Set Language Preference: en
+[2024-02-27 09:29:02.161] [info]  getStartMinimized undefined undefined
+[2024-02-27 09:29:02.170] [info]  IPC_APP_UPDATE_STATE app-update-state
+[2024-02-27 09:29:02.170] [info]  { state: 3 }
+[2024-02-27 09:29:02.177] [warn]  AG Grid: Since v31, 'columnApi.getColumnState' is deprecated and moved to 'api.getColumnState'.
+[2024-02-27 09:29:02.185] [warn]  AG Grid: setRowData is deprecated. Please use 'api.setGridOption('rowData', newValue)' or 'api.updateGridOptions({ rowData: newValue })' instead.
+[2024-02-27 09:29:02.277] [warn]  AG Grid: Since v31, 'columnApi.autoSizeColumns' is deprecated and moved to 'api.autoSizeColumns'.
+[2024-02-27 09:29:02.290] [info]  [POST] https://hub.wowup.io/addons/batch 200 710ms
+[2024-02-27 09:29:02.669] [info]  Checking for addon updates...
+[2024-02-27 09:29:05.261] [info]  [GET] https://api.tukui.org/v1/addons 200 331ms
+[2024-02-27 09:29:05.658] [info]  [GET] https://api.tukui.org/v1/changelog/elvui 200 394ms
+[2024-02-27 09:29:06.000] [info]  [GET] https://api.tukui.org/v1/changelog/tukui 200 244ms
+[2024-02-27 09:29:06.057] [info]  [GET] https://hub.wowup.io/addons/featured/retail?count=60&recent=30 200 1129ms
+[2024-02-27 09:29:31.144] [info]  dialogResult /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/WowClassic.exe
+[2024-02-27 09:29:31.148] [info]  isWowApplication true
+[2024-02-27 09:29:31.152] [info]  wowInstallation {
+  id: '348ada82-b4cb-4758-be00-76285856f2d7',
+  clientType: 1,
+  defaultAddonChannelType: 0,
+  defaultAutoUpdate: false,
+  label: '{defaultName}',
+  displayName: 'Wrath of the Lich King Classic',
+  location: '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/WowClassic.exe',
+  selected: false
+}
+[2024-02-27 09:29:31.155] [info]  Setting wow installations: 2
+[2024-02-27 09:29:41.972] [info]  dialogResult /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/WowClassic.exe
+[2024-02-27 09:29:41.974] [info]  isWowApplication true
+[2024-02-27 09:29:41.976] [info]  wowInstallation {
+  id: 'ad25db76-9d7e-4be9-aba6-8bd5d4076951',
+  clientType: 6,
+  defaultAddonChannelType: 0,
+  defaultAutoUpdate: false,
+  label: '{defaultName}',
+  displayName: 'World of Warcraft Classic',
+  location: '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/WowClassic.exe',
+  selected: false
+}
+[2024-02-27 09:29:41.978] [info]  Setting wow installations: 3
+[2024-02-27 09:29:42.146] [info]  [GET] https://api.tukui.org/v1/addons 200 153ms
+[2024-02-27 09:29:42.510] [info]  [GET] https://api.tukui.org/v1/changelog/elvui 200 362ms
+[2024-02-27 09:29:42.812] [info]  [GET] https://api.tukui.org/v1/changelog/tukui 200 218ms
+[2024-02-27 09:29:43.185] [info]  [GET] https://hub.wowup.io/addons/featured/retail?count=60&recent=30 200 1199ms
+[2024-02-27 09:29:45.664] [info]  Setting wow installations: 3
+[2024-02-27 09:29:46.091] [info]  Removed 0 NonRescan folders: 
+[2024-02-27 09:29:46.092] [info]  Kept 0 NonRescan addons: 
+[2024-02-27 09:29:46.554] [info]  [GET] https://hub.wowup.io/addons/featured/wotlk?count=60&recent=30 200 875ms
+[2024-02-27 09:29:48.854] [info]  [POST] https://hub.wowup.io/addons/fingerprint 200 159ms
+[2024-02-27 09:29:49.002] [error] Bagnon [
+  {
+    fileName: 'Bagnon_VoidStorage_Mainline.toc',
+    filePath: '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Bagnon_VoidStorage/Bagnon_VoidStorage_Mainline.toc',
+    author: 'Jaliborc (João Cardoso)',
+    curseProjectId: '',
+    interface: '100205',
+    title: 'Bagnon Void Storage',
+    website: '',
+    version: '',
+    partOf: '',
+    category: '',
+    localizations: '',
+    wowInterfaceId: '',
+    wagoAddonId: '',
+    dependencies: 'Bagnon',
+    dependencyList: [ 'Bagnon' ],
+    tukUiProjectId: '',
+    tukUiProjectFolders: '',
+    loadOnDemand: '1',
+    addonProvider: '',
+    notes: 'Load on demand void storage display.|nBy João Cardoso|n|n bit.ly/discord-jaliborc|n|n'
+  }
+]
+[2024-02-27 09:29:49.005] [warn]  toc file undefined {
+  name: 'Bagnon_VoidStorage',
+  path: '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Bagnon_VoidStorage',
+  status: 'Pending',
+  tocs: [
+    {
+      fileName: 'Bagnon_VoidStorage_Mainline.toc',
+      filePath: '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Bagnon_VoidStorage/Bagnon_VoidStorage_Mainline.toc',
+      author: 'Jaliborc (João Cardoso)',
+      curseProjectId: '',
+      interface: '100205',
+      title: 'Bagnon Void Storage',
+      website: '',
+      version: '',
+      partOf: '',
+      category: '',
+      localizations: '',
+      wowInterfaceId: '',
+      wagoAddonId: '',
+      dependencies: 'Bagnon',
+      dependencyList: [ 'Bagnon' ],
+      tukUiProjectId: '',
+      tukUiProjectFolders: '',
+      loadOnDemand: '1',
+      addonProvider: '',
+      notes: 'Load on demand void storage display.|nBy João Cardoso|n|n bit.ly/discord-jaliborc|n|n'
+    }
+  ],
+  fileStats: {
+    atime: {},
+    atimeMs: 1709044285211.9263,
+    birthtime: {},
+    birthtimeMs: 1708009222842.1316,
+    blksize: 4096,
+    blocks: 8,
+    ctime: {},
+    ctimeMs: 1708009222842.1316,
+    dev: 2049,
+    gid: 1000,
+    ino: 30153310,
+    isBlockDevice: false,
+    isCharacterDevice: false,
+    isDirectory: true,
+    isFIFO: false,
+    isFile: false,
+    isSocket: false,
+    isSymbolicLink: false,
+    mode: 16877,
+    mtime: {},
+    mtimeMs: 1708009222842.1316,
+    nlink: 2,
+    rdev: 0,
+    size: 4096,
+    uid: 1000
+  },
+  wowUpScanResults: {
+    source: 'wowup',
+    fileFingerprints: [ '818dfe8d14afbc13904c225ff6e4bc0c' ],
+    fingerprint: '53c3310efbfc4825e5d4ef77c740a104',
+    fingerprintNum: 0,
+    path: '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Bagnon_VoidStorage',
+    folderName: 'Bagnon_VoidStorage',
+    fileCount: 1
+  },
+  cfScanResults: {
+    source: 'curseforge',
+    path: '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Bagnon_VoidStorage',
+    fileCount: 1,
+    fingerprint: '1706781981',
+    fingerprintNum: 1706781981,
+    folderName: 'Bagnon_VoidStorage'
+  },
+  matchingAddon: {
+    id: 'fefb37b5-b37e-4a69-a2b6-e3ec2c350e45',
+    author: 'jaliborc',
+    name: 'Bagnon',
+    channelType: 0,
+    autoUpdateEnabled: false,
+    autoUpdateNotificationsEnabled: false,
+    clientType: 1,
+    downloadUrl: 'https://edge.forgecdn.net/files/5105/826/Bagnon-10.2.19.zip',
+    externalUrl: 'https://www.curseforge.com/wow/addons/bagnon',
+    externalId: '1592',
+    gameVersion: '3.4.3',
+    installedAt: {},
+    installedFolders: 'Bagnon_Config,Bagnon_VoidStorage,Bagnon_GuildBank,Bagnon,BagBrother',
+    installedFolderList: [
+      'Bagnon_Config',
+      'Bagnon_VoidStorage',
+      'Bagnon_GuildBank',
+      'Bagnon',
+      'BagBrother'
+    ],
+    installedVersion: '10.2.19',
+    installedExternalReleaseId: '5105826',
+    isIgnored: false,
+    latestVersion: '10.2.19',
+    providerName: 'Curse',
+    thumbnailUrl: 'https://media.forgecdn.net/avatars/thumbnails/647/705/256/256/638048338012580367.png',
+    screenshotUrls: [ 'https://media.forgecdn.net/attachments/222/768/watsup.jpg' ],
+    downloadCount: 108809909,
+    summary: 'All in one displays for your inventory, bank, guild and vault',
+    releasedAt: {},
+    isLoadOnDemand: false,
+    externalLatestReleaseId: '5105826',
+    updatedAt: {},
+    externalChannel: 'Stable',
+    installationId: '348ada82-b4cb-4758-be00-76285856f2d7',
+    externalIds: [ { id: '1592', providerName: 'Curse' } ]
+  }
+} 1
+[2024-02-27 09:29:49.007] [warn]  Invalid provider id CurseV2|15564
+[2024-02-27 09:29:49.007] [warn]  [
+  { id: '5108', providerName: 'WowInterface' },
+  { id: '15564', providerName: 'Curse' }
+]
+[2024-02-27 09:29:49.008] [warn]  Invalid provider id Wago|Mj6jLxGR
+[2024-02-27 09:29:49.008] [warn]  [
+  { id: '5108', providerName: 'WowInterface' },
+  { id: '15564', providerName: 'Curse' }
+]
+[2024-02-27 09:29:49.008] [warn]  Invalid provider id CurseV2|463868
+[2024-02-27 09:29:49.009] [warn]  [ { id: '463868', providerName: 'Curse' } ]
+[2024-02-27 09:29:49.009] [warn]  Invalid provider id CurseV2|463863
+[2024-02-27 09:29:49.010] [warn]  [ { id: '463863', providerName: 'Curse' } ]
+[2024-02-27 09:29:49.010] [warn]  Invalid provider id CurseV2|699643
+[2024-02-27 09:29:49.010] [warn]  [
+  { id: '26455', providerName: 'WowInterface' },
+  { id: '699643', providerName: 'Curse' }
+]
+[2024-02-27 09:29:49.011] [warn]  Invalid provider id Wago|WL6JYRNv
+[2024-02-27 09:29:49.011] [warn]  [
+  { id: '26455', providerName: 'WowInterface' },
+  { id: '699643', providerName: 'Curse' }
+]
+[2024-02-27 09:29:49.011] [warn]  Invalid provider id Wago|R4N2k46L
+[2024-02-27 09:29:49.012] [warn]  []
+[2024-02-27 09:29:49.012] [warn]  Invalid provider id CurseV2|100547
+[2024-02-27 09:29:49.012] [warn]  [ { id: '100547', providerName: 'Curse' } ]
+[2024-02-27 09:29:49.013] [warn]  Invalid provider id Wago|kRNLep6o
+[2024-02-27 09:29:49.013] [warn]  [ { id: '100547', providerName: 'Curse' } ]
+[2024-02-27 09:29:49.014] [warn]  Invalid provider id CurseV2|334517
+[2024-02-27 09:29:49.014] [warn]  [
+  { id: '25083', providerName: 'WowInterface' },
+  { id: '334517', providerName: 'Curse' }
+]
+[2024-02-27 09:29:49.014] [warn]  Invalid provider id CurseV2|334372
+[2024-02-27 09:29:49.015] [warn]  [ { id: '334372', providerName: 'Curse' } ]
+[2024-02-27 09:29:49.015] [warn]  Invalid provider id Wago|qv634BKb
+[2024-02-27 09:29:49.015] [warn]  [ { id: '334372', providerName: 'Curse' } ]
+[2024-02-27 09:29:49.016] [warn]  Invalid provider id CurseV2|65387
+[2024-02-27 09:29:49.016] [warn]  [
+  { id: '24910', providerName: 'WowInterface' },
+  { id: '65387', providerName: 'Curse' }
+]
+[2024-02-27 09:29:49.017] [warn]  Invalid provider id Wago|VBNBxKx5
+[2024-02-27 09:29:49.017] [warn]  [
+  { id: '24910', providerName: 'WowInterface' },
+  { id: '65387', providerName: 'Curse' }
+]
+[2024-02-27 09:29:49.157] [info]  {
+  installState: 7,
+  isInstalling: false,
+  installProgress: 0,
+  stateTextTranslationKey: 'COMMON.ADDON_STATE.UPTODATE',
+  selected: false,
+  releasedAt: 1707855411063,
+  installedAt: 1708009222812,
+  isLoadOnDemand: false,
+  hasThumbnail: true,
+  thumbnailLetter: 'B',
+  canonicalName: 'bagnon',
+  addon: {
+    id: 'fefb37b5-b37e-4a69-a2b6-e3ec2c350e45',
+    author: 'jaliborc',
+    name: 'Bagnon',
+    channelType: 0,
+    autoUpdateEnabled: false,
+    autoUpdateNotificationsEnabled: false,
+    clientType: 1,
+    downloadUrl: 'https://edge.forgecdn.net/files/5105/826/Bagnon-10.2.19.zip',
+    externalUrl: 'https://www.curseforge.com/wow/addons/bagnon',
+    externalId: '1592',
+    gameVersion: '3.4.3',
+    installedAt: {},
+    installedFolders: 'Bagnon_Config,Bagnon_VoidStorage,Bagnon_GuildBank,Bagnon,BagBrother',
+    installedFolderList: [
+      'Bagnon_Config',
+      'Bagnon_VoidStorage',
+      'Bagnon_GuildBank',
+      'Bagnon',
+      'BagBrother'
+    ],
+    installedVersion: '10.2.19',
+    installedExternalReleaseId: '5105826',
+    isIgnored: false,
+    latestVersion: '10.2.19',
+    providerName: 'Curse',
+    thumbnailUrl: 'https://media.forgecdn.net/avatars/thumbnails/647/705/256/256/638048338012580367.png',
+    screenshotUrls: [ 'https://media.forgecdn.net/attachments/222/768/watsup.jpg' ],
+    downloadCount: 108809909,
+    summary: 'All in one displays for your inventory, bank, guild and vault',
+    releasedAt: {},
+    isLoadOnDemand: false,
+    externalLatestReleaseId: '5105826',
+    updatedAt: {},
+    externalChannel: 'Stable',
+    installationId: '348ada82-b4cb-4758-be00-76285856f2d7',
+    externalIds: [ { id: '1592', providerName: 'Curse' } ],
+    warningType: 'game-version-toc-missing'
+  }
+}
+[2024-02-27 09:29:57.133] [info]  [RemoveAddon] Curse 1592 Bagnon
+[2024-02-27 09:29:57.134] [info]  [RemoveAddonDirectory] Curse 1592 /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Bagnon_Config
+[2024-02-27 09:29:57.144] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Bagnon_Config
+[2024-02-27 09:29:57.147] [info]  [RemoveAddonDirectory] Curse 1592 /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Bagnon_VoidStorage
+[2024-02-27 09:29:57.148] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Bagnon_VoidStorage
+[2024-02-27 09:29:57.149] [info]  [RemoveAddonDirectory] Curse 1592 /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Bagnon_GuildBank
+[2024-02-27 09:29:57.150] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Bagnon_GuildBank
+[2024-02-27 09:29:57.151] [info]  [RemoveAddonDirectory] Curse 1592 /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Bagnon
+[2024-02-27 09:29:57.151] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Bagnon
+[2024-02-27 09:29:57.154] [info]  [RemoveAddonDirectory] Curse 1592 /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/BagBrother
+[2024-02-27 09:29:57.154] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/BagBrother
+[2024-02-27 09:29:57.312] [info]  WowUpAddonService: No addons to sync {defaultName}
+[2024-02-27 09:30:01.586] [info]  [AddonUpdate] Curse 6124 Auctionator '10.2.24-wrath' -> '10.2.26-wrath'
+[2024-02-27 09:30:01.588] [info]  [AddonUpdate] Curse 6650 Dominos '10.2.18' -> '10.2.21'
+[2024-02-27 09:30:01.589] [info]  [AddonUpdate] Curse 463868 Leatrix Maps (Wrath of the Lich King Classic) '3.0.179-wrath' -> '3.0.180-wrath'
+[2024-02-27 09:30:01.591] [info]  [DownloadFile] 'https://edge.forgecdn.net/files/5133/605/Auctionator-10.2.26-wrath.zip' -> '/home/colby/.config/WowUpCf/downloads/-dxnSh6lf_pS3bZWTpGAE-auctionator.zip'
+[2024-02-27 09:30:01.594] [info]  [DownloadFile] 'https://edge.forgecdn.net/files/5120/781/Dominos-10.2.21.zip' -> '/home/colby/.config/WowUpCf/downloads/N2HV5xqJa1tb40rPbfkzW-dominos.zip'
+[2024-02-27 09:30:01.599] [info]  [DownloadFile] 'https://edge.forgecdn.net/files/5126/386/Leatrix_Maps-3.0.180-wrath.zip' -> '/home/colby/.config/WowUpCf/downloads/jNjMfVbUdmOcZ0fn8TMHK-leatrix-maps-wrath-of-the-lich-king-classic.zip'
+[2024-02-27 09:30:01.767] [info]  [download] caught redirect 302 https://mediafilez.forgecdn.net/files/5133/605/Auctionator-10.2.26-wrath.zip
+[2024-02-27 09:30:01.768] [info]  [download] caught redirect 302 https://mediafilez.forgecdn.net/files/5126/386/Leatrix_Maps-3.0.180-wrath.zip
+[2024-02-27 09:30:01.768] [info]  [download] caught redirect 302 https://mediafilez.forgecdn.net/files/5120/781/Dominos-10.2.21.zip
+[2024-02-27 09:30:01.894] [debug] Write: [15] 21941
+[2024-02-27 09:30:01.895] [debug] Write: [0] 3124
+[2024-02-27 09:30:01.910] [debug] Write: [20] 29497
+[2024-02-27 09:30:01.915] [debug] Write: [5] 18752
+[2024-02-27 09:30:01.924] [debug] Write: [25] 36632
+[2024-02-27 09:30:01.931] [debug] Write: [35] 50907
+[2024-02-27 09:30:01.933] [debug] Write: [40] 58042
+[2024-02-27 09:30:01.935] [debug] Write: [5] 38832
+[2024-02-27 09:30:01.941] [debug] Write: [45] 65177
+[2024-02-27 09:30:01.945] [debug] Write: [15] 55850
+[2024-02-27 09:30:01.954] [debug] Write: [20] 74394
+[2024-02-27 09:30:01.962] [debug] Write: [10] 81642
+[2024-02-27 09:30:01.964] [debug] Write: [25] 95809
+[2024-02-27 09:30:01.973] [debug] Write: [90] 129387
+[2024-02-27 09:30:01.973] [debug] Write: [30] 112932
+[2024-02-27 09:30:01.976] [debug] Write: [100] 142676
+[2024-02-27 09:30:01.985] [info]  [CreateDirectory] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Leatrix_Maps-bak'
+[2024-02-27 09:30:01.987] [debug] Write: [50] 185217
+[2024-02-27 09:30:01.988] [info]  [FileCopy] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Leatrix_Maps' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Leatrix_Maps-bak'
+[2024-02-27 09:30:01.998] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Leatrix_Maps
+[2024-02-27 09:30:02.001] [info]  unzipFile /home/colby/.config/WowUpCf/downloads/jNjMfVbUdmOcZ0fn8TMHK-leatrix-maps-wrath-of-the-lich-king-classic.zip
+[2024-02-27 09:30:02.005] [debug] Write: [30] 229984
+[2024-02-27 09:30:02.007] [debug] Write: [70] 259385
+[2024-02-27 09:30:02.019] [debug] Write: [100] 369018
+[2024-02-27 09:30:02.027] [debug] Write: [75] 578240
+[2024-02-27 09:30:02.031] [debug] Write: [90] 692334
+[2024-02-27 09:30:02.033] [debug] Write: [100] 763867
+[2024-02-27 09:30:02.038] [info]  [CreateDirectory] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Dominos_Cast-bak'
+[2024-02-27 09:30:02.041] [info]  [FileCopy] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Dominos_Cast' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Dominos_Cast-bak'
+[2024-02-27 09:30:02.047] [info]  [CreateDirectory] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Auctionator-bak'
+[2024-02-27 09:30:02.049] [info]  [FileCopy] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Auctionator' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Auctionator-bak'
+[2024-02-27 09:30:02.054] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Dominos_Cast
+[2024-02-27 09:30:02.057] [info]  [CreateDirectory] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Dominos_Config-bak'
+[2024-02-27 09:30:02.058] [info]  [FileCopy] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Dominos_Config' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Dominos_Config-bak'
+[2024-02-27 09:30:02.065] [info]  [FileCopy] '/home/colby/.config/WowUpCf/downloads/5iQwtTslk-37I4eoZ1uF8/Leatrix_Maps' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Leatrix_Maps'
+[2024-02-27 09:30:02.074] [info]  [RemovePath]: /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Leatrix_Maps-bak
+[2024-02-27 09:30:02.074] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Leatrix_Maps-bak
+[2024-02-27 09:30:02.077] [info]  [AddedDirs] Curse 463868 Leatrix Maps (Wrath of the Lich King Classic) 
+[2024-02-27 09:30:02.097] [info]  [AddonUpdateComplete] Curse 463868 Leatrix Maps (Wrath of the Lich King Classic) 3.0.180-wrath
+[2024-02-27 09:30:02.106] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Dominos_Config
+[2024-02-27 09:30:02.140] [info]  [FileRemove] /home/colby/.config/WowUpCf/downloads/5iQwtTslk-37I4eoZ1uF8
+[2024-02-27 09:30:02.150] [info]  [FileRemove] /home/colby/.config/WowUpCf/downloads/jNjMfVbUdmOcZ0fn8TMHK-leatrix-maps-wrath-of-the-lich-king-classic.zip
+[2024-02-27 09:30:02.155] [info]  Install complete Leatrix Maps (Wrath of the Lich King Classic)
+[2024-02-27 09:30:02.156] [info]  [AddonUpdate] Curse 463863 Leatrix Plus (Wrath of the Lich King Classic) '3.0.179-wrath' -> '3.0.181-wrath'
+[2024-02-27 09:30:02.157] [info]  [CreateDirectory] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Dominos_Progress-bak'
+[2024-02-27 09:30:02.157] [info]  [DownloadFile] 'https://edge.forgecdn.net/files/5127/780/Leatrix_Plus-3.0.181-wrath.zip' -> '/home/colby/.config/WowUpCf/downloads/DQtx71i3zPo1JBK1USIs1-leatrix-plus-wrath-of-the-lich-king-classic.zip'
+[2024-02-27 09:30:02.160] [info]  [FileCopy] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Dominos_Progress' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Dominos_Progress-bak'
+[2024-02-27 09:30:02.171] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Dominos_Progress
+[2024-02-27 09:30:02.174] [info]  [CreateDirectory] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Dominos_Roll-bak'
+[2024-02-27 09:30:02.175] [info]  [FileCopy] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Dominos_Roll' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Dominos_Roll-bak'
+[2024-02-27 09:30:02.178] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Dominos_Roll
+[2024-02-27 09:30:02.180] [info]  [CreateDirectory] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Dominos-bak'
+[2024-02-27 09:30:02.180] [info]  [FileCopy] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Dominos' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Dominos-bak'
+[2024-02-27 09:30:02.208] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Dominos
+[2024-02-27 09:30:02.213] [info]  [CreateDirectory] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Masque_Dominos-bak'
+[2024-02-27 09:30:02.213] [info]  [FileCopy] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Masque_Dominos' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Masque_Dominos-bak'
+[2024-02-27 09:30:02.216] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Masque_Dominos
+[2024-02-27 09:30:02.217] [info]  unzipFile /home/colby/.config/WowUpCf/downloads/N2HV5xqJa1tb40rPbfkzW-dominos.zip
+[2024-02-27 09:30:02.222] [info]  [download] caught redirect 302 https://mediafilez.forgecdn.net/files/5127/780/Leatrix_Plus-3.0.181-wrath.zip
+[2024-02-27 09:30:02.258] [debug] Write: [10] 69537
+[2024-02-27 09:30:02.260] [debug] Write: [20] 135073
+[2024-02-27 09:30:02.260] [debug] Write: [45] 303639
+[2024-02-27 09:30:02.262] [debug] Write: [55] 374989
+[2024-02-27 09:30:02.263] [debug] Write: [60] 403529
+[2024-02-27 09:30:02.264] [debug] Write: [65] 437772
+[2024-02-27 09:30:02.265] [debug] Write: [75] 506268
+[2024-02-27 09:30:02.266] [debug] Write: [80] 537662
+[2024-02-27 09:30:02.270] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Auctionator
+[2024-02-27 09:30:02.271] [debug] Write: [95] 637547
+[2024-02-27 09:30:02.278] [debug] Write: [100] 669639
+[2024-02-27 09:30:02.286] [info]  [CreateDirectory] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Leatrix_Plus-bak'
+[2024-02-27 09:30:02.287] [info]  [FileCopy] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Leatrix_Plus' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Leatrix_Plus-bak'
+[2024-02-27 09:30:02.290] [info]  unzipFile /home/colby/.config/WowUpCf/downloads/-dxnSh6lf_pS3bZWTpGAE-auctionator.zip
+[2024-02-27 09:30:02.305] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Leatrix_Plus
+[2024-02-27 09:30:02.307] [info]  unzipFile /home/colby/.config/WowUpCf/downloads/DQtx71i3zPo1JBK1USIs1-leatrix-plus-wrath-of-the-lich-king-classic.zip
+[2024-02-27 09:30:02.376] [info]  [FileCopy] '/home/colby/.config/WowUpCf/downloads/mOllaYKdntGGmkoQr4WrR/Leatrix_Plus' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Leatrix_Plus'
+[2024-02-27 09:30:02.388] [info]  [RemovePath]: /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Leatrix_Plus-bak
+[2024-02-27 09:30:02.389] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Leatrix_Plus-bak
+[2024-02-27 09:30:02.391] [info]  [AddedDirs] Curse 463863 Leatrix Plus (Wrath of the Lich King Classic) 
+[2024-02-27 09:30:02.407] [info]  [AddonUpdateComplete] Curse 463863 Leatrix Plus (Wrath of the Lich King Classic) 3.0.181-wrath
+[2024-02-27 09:30:02.430] [info]  [FileRemove] /home/colby/.config/WowUpCf/downloads/mOllaYKdntGGmkoQr4WrR
+[2024-02-27 09:30:02.436] [info]  [FileRemove] /home/colby/.config/WowUpCf/downloads/DQtx71i3zPo1JBK1USIs1-leatrix-plus-wrath-of-the-lich-king-classic.zip
+[2024-02-27 09:30:02.440] [info]  Install complete Leatrix Plus (Wrath of the Lich King Classic)
+[2024-02-27 09:30:02.441] [info]  [AddonUpdate] Curse 4646 Pawn '2.8.9 (Wrath)' -> '2.8.10 (Wrath)'
+[2024-02-27 09:30:02.441] [info]  [DownloadFile] 'https://edge.forgecdn.net/files/5133/397/Pawn-2.8.10-Wrath.zip' -> '/home/colby/.config/WowUpCf/downloads/IAFz-hnO7kzfNw844Uvvs-pawn.zip'
+[2024-02-27 09:30:02.486] [info]  [download] caught redirect 302 https://mediafilez.forgecdn.net/files/5133/397/Pawn-2.8.10-Wrath.zip
+[2024-02-27 09:30:02.504] [info]  [FileCopy] '/home/colby/.config/WowUpCf/downloads/jPWcdWO4Q8JwctY05fXTE/Dominos' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Dominos'
+[2024-02-27 09:30:02.520] [debug] Write: [15] 112655
+[2024-02-27 09:30:02.526] [debug] Write: [75] 550683
+[2024-02-27 09:30:02.530] [debug] Write: [95] 696204
+[2024-02-27 09:30:02.531] [debug] Write: [100] 729781
+[2024-02-27 09:30:02.539] [info]  [CreateDirectory] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Pawn-bak'
+[2024-02-27 09:30:02.540] [info]  [FileCopy] '/home/colby/.config/WowUpCf/downloads/jPWcdWO4Q8JwctY05fXTE/Dominos_Cast' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Dominos_Cast'
+[2024-02-27 09:30:02.541] [info]  [FileCopy] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Pawn' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Pawn-bak'
+[2024-02-27 09:30:02.546] [info]  [FileCopy] '/home/colby/.config/WowUpCf/downloads/jPWcdWO4Q8JwctY05fXTE/Dominos_Config' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Dominos_Config'
+[2024-02-27 09:30:02.571] [info]  [FileCopy] '/home/colby/.config/WowUpCf/downloads/jPWcdWO4Q8JwctY05fXTE/Dominos_Progress' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Dominos_Progress'
+[2024-02-27 09:30:02.575] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Pawn
+[2024-02-27 09:30:02.579] [info]  unzipFile /home/colby/.config/WowUpCf/downloads/IAFz-hnO7kzfNw844Uvvs-pawn.zip
+[2024-02-27 09:30:02.582] [info]  [FileCopy] '/home/colby/.config/WowUpCf/downloads/jPWcdWO4Q8JwctY05fXTE/Dominos_Roll' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Dominos_Roll'
+[2024-02-27 09:30:02.585] [info]  [FileCopy] '/home/colby/.config/WowUpCf/downloads/jPWcdWO4Q8JwctY05fXTE/Masque_Dominos' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Masque_Dominos'
+[2024-02-27 09:30:02.596] [info]  [RemovePath]: /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Dominos_Cast-bak
+[2024-02-27 09:30:02.596] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Dominos_Cast-bak
+[2024-02-27 09:30:02.596] [info]  [RemovePath]: /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Dominos_Config-bak
+[2024-02-27 09:30:02.596] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Dominos_Config-bak
+[2024-02-27 09:30:02.597] [info]  [RemovePath]: /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Dominos_Progress-bak
+[2024-02-27 09:30:02.597] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Dominos_Progress-bak
+[2024-02-27 09:30:02.597] [info]  [RemovePath]: /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Dominos_Roll-bak
+[2024-02-27 09:30:02.597] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Dominos_Roll-bak
+[2024-02-27 09:30:02.597] [info]  [RemovePath]: /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Dominos-bak
+[2024-02-27 09:30:02.597] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Dominos-bak
+[2024-02-27 09:30:02.598] [info]  [RemovePath]: /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Masque_Dominos-bak
+[2024-02-27 09:30:02.598] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Masque_Dominos-bak
+[2024-02-27 09:30:02.608] [info]  [AddedDirs] Curse 6650 Dominos 
+[2024-02-27 09:30:02.628] [info]  [AddonUpdateComplete] Curse 6650 Dominos 10.2.21
+[2024-02-27 09:30:02.668] [info]  [FileRemove] /home/colby/.config/WowUpCf/downloads/jPWcdWO4Q8JwctY05fXTE
+[2024-02-27 09:30:02.680] [info]  [FileCopy] '/home/colby/.config/WowUpCf/downloads/tWZArt_3q9oYG8gVCv2WT/Pawn' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Pawn'
+[2024-02-27 09:30:02.680] [info]  [FileRemove] /home/colby/.config/WowUpCf/downloads/N2HV5xqJa1tb40rPbfkzW-dominos.zip
+[2024-02-27 09:30:02.682] [info]  Install complete Dominos
+[2024-02-27 09:30:02.683] [info]  [AddonUpdate] Curse 100547 Plater Nameplates 'Plater-v575' -> 'Plater-v576a'
+[2024-02-27 09:30:02.684] [info]  [DownloadFile] 'https://edge.forgecdn.net/files/5120/911/Plater-v576a.zip' -> '/home/colby/.config/WowUpCf/downloads/xquwNX-MEIBfnuOvzcbeF-plater-nameplates.zip'
+[2024-02-27 09:30:02.701] [info]  [RemovePath]: /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Pawn-bak
+[2024-02-27 09:30:02.701] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Pawn-bak
+[2024-02-27 09:30:02.704] [info]  [AddedDirs] Curse 4646 Pawn 
+[2024-02-27 09:30:02.716] [info]  [AddonUpdateComplete] Curse 4646 Pawn 2.8.10 (Wrath)
+[2024-02-27 09:30:02.731] [info]  [download] caught redirect 302 https://mediafilez.forgecdn.net/files/5120/911/Plater-v576a.zip
+[2024-02-27 09:30:02.751] [info]  [FileRemove] /home/colby/.config/WowUpCf/downloads/tWZArt_3q9oYG8gVCv2WT
+[2024-02-27 09:30:02.756] [info]  [FileRemove] /home/colby/.config/WowUpCf/downloads/IAFz-hnO7kzfNw844Uvvs-pawn.zip
+[2024-02-27 09:30:02.759] [info]  Install complete Pawn
+[2024-02-27 09:30:02.761] [debug] Write: [0] 25333
+[2024-02-27 09:30:02.770] [debug] Write: [5] 228537
+[2024-02-27 09:30:02.773] [debug] Write: [10] 475277
+[2024-02-27 09:30:02.777] [debug] Write: [15] 690835
+[2024-02-27 09:30:02.788] [debug] Write: [25] 1134602
+[2024-02-27 09:30:02.792] [info]  [FileCopy] '/home/colby/.config/WowUpCf/downloads/OzvR_WCwZIxSBjTMDiTgu/Auctionator' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Auctionator'
+[2024-02-27 09:30:02.796] [debug] Write: [30] 1378569
+[2024-02-27 09:30:02.805] [debug] Write: [35] 1584037
+[2024-02-27 09:30:02.808] [debug] Write: [40] 1810641
+[2024-02-27 09:30:02.816] [debug] Write: [45] 2065811
+[2024-02-27 09:30:02.831] [debug] Write: [55] 2528332
+[2024-02-27 09:30:02.839] [debug] Write: [60] 2734114
+[2024-02-27 09:30:02.843] [debug] Write: [65] 2983819
+[2024-02-27 09:30:02.846] [debug] Write: [70] 3179220
+[2024-02-27 09:30:02.857] [debug] Write: [75] 3417422
+[2024-02-27 09:30:02.861] [debug] Write: [80] 3661086
+[2024-02-27 09:30:02.895] [debug] Write: [85] 3865245
+[2024-02-27 09:30:02.896] [debug] Write: [95] 4325376
+[2024-02-27 09:30:02.898] [debug] Write: [100] 4525009
+[2024-02-27 09:30:02.902] [info]  [CreateDirectory] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Plater-bak'
+[2024-02-27 09:30:02.904] [info]  [FileCopy] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Plater' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Plater-bak'
+[2024-02-27 09:30:02.931] [info]  [RemovePath]: /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Auctionator-bak
+[2024-02-27 09:30:02.932] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Auctionator-bak
+[2024-02-27 09:30:02.981] [info]  [AddedDirs] Curse 6124 Auctionator 
+[2024-02-27 09:30:02.992] [info]  [AddonUpdateComplete] Curse 6124 Auctionator 10.2.26-wrath
+[2024-02-27 09:30:03.024] [info]  [FileRemove] /home/colby/.config/WowUpCf/downloads/OzvR_WCwZIxSBjTMDiTgu
+[2024-02-27 09:30:03.045] [info]  [FileRemove] /home/colby/.config/WowUpCf/downloads/-dxnSh6lf_pS3bZWTpGAE-auctionator.zip
+[2024-02-27 09:30:03.046] [info]  Install complete Auctionator
+[2024-02-27 09:30:03.197] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Plater
+[2024-02-27 09:30:03.214] [info]  unzipFile /home/colby/.config/WowUpCf/downloads/xquwNX-MEIBfnuOvzcbeF-plater-nameplates.zip
+[2024-02-27 09:30:03.582] [info]  [FileCopy] '/home/colby/.config/WowUpCf/downloads/fWc4To6IoH2pEkFhGbo2y/Plater' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Plater'
+[2024-02-27 09:30:03.743] [info]  [RemovePath]: /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Plater-bak
+[2024-02-27 09:30:03.743] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Plater-bak
+[2024-02-27 09:30:03.760] [info]  [AddedDirs] Curse 100547 Plater Nameplates 
+[2024-02-27 09:30:03.772] [info]  [AddonUpdateComplete] Curse 100547 Plater Nameplates Plater-v576a
+[2024-02-27 09:30:03.827] [info]  [FileRemove] /home/colby/.config/WowUpCf/downloads/fWc4To6IoH2pEkFhGbo2y
+[2024-02-27 09:30:03.845] [info]  [FileRemove] /home/colby/.config/WowUpCf/downloads/xquwNX-MEIBfnuOvzcbeF-plater-nameplates.zip
+[2024-02-27 09:30:03.847] [info]  Install complete Plater Nameplates
+[2024-02-27 09:30:09.852] [info]  Setting wow installations: 3
+[2024-02-27 09:30:10.232] [info]  Removed 0 NonRescan folders: 
+[2024-02-27 09:30:10.232] [info]  Kept 0 NonRescan addons: 
+[2024-02-27 09:30:11.403] [info]  [GET] https://hub.wowup.io/addons/featured/classic?count=60&recent=30 200 1540ms
+[2024-02-27 09:30:12.634] [info]  [POST] https://hub.wowup.io/addons/fingerprint 200 141ms
+[2024-02-27 09:30:12.768] [error] Bagnon [
+  {
+    fileName: 'Bagnon_GuildBank_Mainline.toc',
+    filePath: '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Bagnon_GuildBank/Bagnon_GuildBank_Mainline.toc',
+    author: 'Jaliborc (João Cardoso)',
+    curseProjectId: '',
+    interface: '100205',
+    title: 'Bagnon Guild Bank',
+    website: '',
+    version: '',
+    partOf: '',
+    category: '',
+    localizations: '',
+    wowInterfaceId: '',
+    wagoAddonId: '',
+    dependencies: 'Bagnon',
+    dependencyList: [ 'Bagnon' ],
+    tukUiProjectId: '',
+    tukUiProjectFolders: '',
+    loadOnDemand: '1',
+    addonProvider: '',
+    notes: 'Load on demand guild bank display.|nBy João Cardoso|n|n bit.ly/discord-jaliborc|n|n'
+  },
+  {
+    fileName: 'Bagnon_GuildBank_Wrath.toc',
+    filePath: '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Bagnon_GuildBank/Bagnon_GuildBank_Wrath.toc',
+    author: 'Jaliborc (João Cardoso)',
+    curseProjectId: '',
+    interface: '30403',
+    title: 'Bagnon Guild Bank',
+    website: '',
+    version: '',
+    partOf: '',
+    category: '',
+    localizations: '',
+    wowInterfaceId: '',
+    wagoAddonId: '',
+    dependencies: 'Bagnon',
+    dependencyList: [ 'Bagnon' ],
+    tukUiProjectId: '',
+    tukUiProjectFolders: '',
+    loadOnDemand: '1',
+    addonProvider: '',
+    notes: 'Load on demand guild bank display.|nBy João Cardoso|n|n bit.ly/discord-jaliborc|n|n'
+  }
+]
+[2024-02-27 09:30:12.769] [error] Bagnon [
+  {
+    fileName: 'Bagnon_VoidStorage_Mainline.toc',
+    filePath: '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Bagnon_VoidStorage/Bagnon_VoidStorage_Mainline.toc',
+    author: 'Jaliborc (João Cardoso)',
+    curseProjectId: '',
+    interface: '100205',
+    title: 'Bagnon Void Storage',
+    website: '',
+    version: '',
+    partOf: '',
+    category: '',
+    localizations: '',
+    wowInterfaceId: '',
+    wagoAddonId: '',
+    dependencies: 'Bagnon',
+    dependencyList: [ 'Bagnon' ],
+    tukUiProjectId: '',
+    tukUiProjectFolders: '',
+    loadOnDemand: '1',
+    addonProvider: '',
+    notes: 'Load on demand void storage display.|nBy João Cardoso|n|n bit.ly/discord-jaliborc|n|n'
+  }
+]
+[2024-02-27 09:30:12.902] [info]  [GET] https://api.tukui.org/v1/addons 200 133ms
+[2024-02-27 09:30:12.903] [warn]  toc file undefined {
+  name: 'Bagnon_GuildBank',
+  path: '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Bagnon_GuildBank',
+  status: 'Pending',
+  tocs: [
+    {
+      fileName: 'Bagnon_GuildBank_Mainline.toc',
+      filePath: '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Bagnon_GuildBank/Bagnon_GuildBank_Mainline.toc',
+      author: 'Jaliborc (João Cardoso)',
+      curseProjectId: '',
+      interface: '100205',
+      title: 'Bagnon Guild Bank',
+      website: '',
+      version: '',
+      partOf: '',
+      category: '',
+      localizations: '',
+      wowInterfaceId: '',
+      wagoAddonId: '',
+      dependencies: 'Bagnon',
+      dependencyList: [ 'Bagnon' ],
+      tukUiProjectId: '',
+      tukUiProjectFolders: '',
+      loadOnDemand: '1',
+      addonProvider: '',
+      notes: 'Load on demand guild bank display.|nBy João Cardoso|n|n bit.ly/discord-jaliborc|n|n'
+    },
+    {
+      fileName: 'Bagnon_GuildBank_Wrath.toc',
+      filePath: '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Bagnon_GuildBank/Bagnon_GuildBank_Wrath.toc',
+      author: 'Jaliborc (João Cardoso)',
+      curseProjectId: '',
+      interface: '30403',
+      title: 'Bagnon Guild Bank',
+      website: '',
+      version: '',
+      partOf: '',
+      category: '',
+      localizations: '',
+      wowInterfaceId: '',
+      wagoAddonId: '',
+      dependencies: 'Bagnon',
+      dependencyList: [ 'Bagnon' ],
+      tukUiProjectId: '',
+      tukUiProjectFolders: '',
+      loadOnDemand: '1',
+      addonProvider: '',
+      notes: 'Load on demand guild bank display.|nBy João Cardoso|n|n bit.ly/discord-jaliborc|n|n'
+    }
+  ],
+  fileStats: {
+    atime: {},
+    atimeMs: 1709044287393.9502,
+    birthtime: {},
+    birthtimeMs: 1708009265382.5574,
+    blksize: 4096,
+    blocks: 8,
+    ctime: {},
+    ctimeMs: 1708009265382.5574,
+    dev: 2049,
+    gid: 1000,
+    ino: 30150854,
+    isBlockDevice: false,
+    isCharacterDevice: false,
+    isDirectory: true,
+    isFIFO: false,
+    isFile: false,
+    isSocket: false,
+    isSymbolicLink: false,
+    mode: 16877,
+    mtime: {},
+    mtimeMs: 1708009265382.5574,
+    nlink: 2,
+    rdev: 0,
+    size: 4096,
+    uid: 1000
+  },
+  wowUpScanResults: {
+    source: 'wowup',
+    fileFingerprints: [
+      'b99a91b75d3530fbf8a8027cfcca8162',
+      '90b65624139ccb64a4b5c21123df6e5d'
+    ],
+    fingerprint: 'eb031b3879b0fe99a806b999b552e363',
+    fingerprintNum: 0,
+    path: '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Bagnon_GuildBank',
+    folderName: 'Bagnon_GuildBank',
+    fileCount: 2
+  },
+  cfScanResults: {
+    source: 'curseforge',
+    path: '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Bagnon_GuildBank',
+    fileCount: 2,
+    fingerprint: '3304112628',
+    fingerprintNum: 3304112628,
+    folderName: 'Bagnon_GuildBank'
+  },
+  matchingAddon: {
+    id: '12f1c5f5-1316-421e-b9da-8a21aca91f8e',
+    author: 'jaliborc',
+    name: 'Bagnon',
+    channelType: 0,
+    autoUpdateEnabled: false,
+    autoUpdateNotificationsEnabled: false,
+    clientType: 6,
+    downloadUrl: 'https://edge.forgecdn.net/files/5105/826/Bagnon-10.2.19.zip',
+    externalUrl: 'https://www.curseforge.com/wow/addons/bagnon',
+    externalId: '1592',
+    gameVersion: '1.15.1',
+    installedAt: {},
+    installedFolders: 'Bagnon_Config,Bagnon_VoidStorage,Bagnon_GuildBank,Bagnon,BagBrother',
+    installedFolderList: [
+      'Bagnon_Config',
+      'Bagnon_VoidStorage',
+      'Bagnon_GuildBank',
+      'Bagnon',
+      'BagBrother'
+    ],
+    installedVersion: '10.2.19',
+    installedExternalReleaseId: '5105826',
+    isIgnored: false,
+    latestVersion: '10.2.19',
+    providerName: 'Curse',
+    thumbnailUrl: 'https://media.forgecdn.net/avatars/thumbnails/647/705/256/256/638048338012580367.png',
+    screenshotUrls: [ 'https://media.forgecdn.net/attachments/222/768/watsup.jpg' ],
+    downloadCount: 108809909,
+    summary: 'All in one displays for your inventory, bank, guild and vault',
+    releasedAt: {},
+    isLoadOnDemand: false,
+    externalLatestReleaseId: '5105826',
+    updatedAt: {},
+    externalChannel: 'Stable',
+    installationId: 'ad25db76-9d7e-4be9-aba6-8bd5d4076951',
+    externalIds: [ { id: '1592', providerName: 'Curse' } ]
+  }
+} 6
+[2024-02-27 09:30:12.905] [warn]  toc file undefined {
+  name: 'Bagnon_VoidStorage',
+  path: '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Bagnon_VoidStorage',
+  status: 'Pending',
+  tocs: [
+    {
+      fileName: 'Bagnon_VoidStorage_Mainline.toc',
+      filePath: '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Bagnon_VoidStorage/Bagnon_VoidStorage_Mainline.toc',
+      author: 'Jaliborc (João Cardoso)',
+      curseProjectId: '',
+      interface: '100205',
+      title: 'Bagnon Void Storage',
+      website: '',
+      version: '',
+      partOf: '',
+      category: '',
+      localizations: '',
+      wowInterfaceId: '',
+      wagoAddonId: '',
+      dependencies: 'Bagnon',
+      dependencyList: [ 'Bagnon' ],
+      tukUiProjectId: '',
+      tukUiProjectFolders: '',
+      loadOnDemand: '1',
+      addonProvider: '',
+      notes: 'Load on demand void storage display.|nBy João Cardoso|n|n bit.ly/discord-jaliborc|n|n'
+    }
+  ],
+  fileStats: {
+    atime: {},
+    atimeMs: 1709044287394.9502,
+    birthtime: {},
+    birthtimeMs: 1708009265385.8909,
+    blksize: 4096,
+    blocks: 8,
+    ctime: {},
+    ctimeMs: 1708009265385.8909,
+    dev: 2049,
+    gid: 1000,
+    ino: 30153609,
+    isBlockDevice: false,
+    isCharacterDevice: false,
+    isDirectory: true,
+    isFIFO: false,
+    isFile: false,
+    isSocket: false,
+    isSymbolicLink: false,
+    mode: 16877,
+    mtime: {},
+    mtimeMs: 1708009265385.8909,
+    nlink: 2,
+    rdev: 0,
+    size: 4096,
+    uid: 1000
+  },
+  wowUpScanResults: {
+    source: 'wowup',
+    fileFingerprints: [ '818dfe8d14afbc13904c225ff6e4bc0c' ],
+    fingerprint: '53c3310efbfc4825e5d4ef77c740a104',
+    fingerprintNum: 0,
+    path: '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Bagnon_VoidStorage',
+    folderName: 'Bagnon_VoidStorage',
+    fileCount: 1
+  },
+  cfScanResults: {
+    source: 'curseforge',
+    path: '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Bagnon_VoidStorage',
+    fileCount: 1,
+    fingerprint: '1706781981',
+    fingerprintNum: 1706781981,
+    folderName: 'Bagnon_VoidStorage'
+  },
+  matchingAddon: {
+    id: '12f1c5f5-1316-421e-b9da-8a21aca91f8e',
+    author: 'jaliborc',
+    name: 'Bagnon',
+    channelType: 0,
+    autoUpdateEnabled: false,
+    autoUpdateNotificationsEnabled: false,
+    clientType: 6,
+    downloadUrl: 'https://edge.forgecdn.net/files/5105/826/Bagnon-10.2.19.zip',
+    externalUrl: 'https://www.curseforge.com/wow/addons/bagnon',
+    externalId: '1592',
+    gameVersion: '1.15.1',
+    installedAt: {},
+    installedFolders: 'Bagnon_Config,Bagnon_VoidStorage,Bagnon_GuildBank,Bagnon,BagBrother',
+    installedFolderList: [
+      'Bagnon_Config',
+      'Bagnon_VoidStorage',
+      'Bagnon_GuildBank',
+      'Bagnon',
+      'BagBrother'
+    ],
+    installedVersion: '10.2.19',
+    installedExternalReleaseId: '5105826',
+    isIgnored: false,
+    latestVersion: '10.2.19',
+    providerName: 'Curse',
+    thumbnailUrl: 'https://media.forgecdn.net/avatars/thumbnails/647/705/256/256/638048338012580367.png',
+    screenshotUrls: [ 'https://media.forgecdn.net/attachments/222/768/watsup.jpg' ],
+    downloadCount: 108809909,
+    summary: 'All in one displays for your inventory, bank, guild and vault',
+    releasedAt: {},
+    isLoadOnDemand: false,
+    externalLatestReleaseId: '5105826',
+    updatedAt: {},
+    externalChannel: 'Stable',
+    installationId: 'ad25db76-9d7e-4be9-aba6-8bd5d4076951',
+    externalIds: [ { id: '1592', providerName: 'Curse' } ],
+    warningType: 'game-version-toc-missing'
+  }
+} 6
+[2024-02-27 09:30:12.907] [warn]  Invalid provider id CurseV2|15564
+[2024-02-27 09:30:12.907] [warn]  [
+  { id: '5108', providerName: 'WowInterface' },
+  { id: '15564', providerName: 'Curse' }
+]
+[2024-02-27 09:30:12.908] [warn]  Invalid provider id Wago|Mj6jLxGR
+[2024-02-27 09:30:12.908] [warn]  [
+  { id: '5108', providerName: 'WowInterface' },
+  { id: '15564', providerName: 'Curse' }
+]
+[2024-02-27 09:30:12.908] [warn]  Invalid provider id CurseV2|324034
+[2024-02-27 09:30:12.909] [warn]  [ { id: '324034', providerName: 'Curse' } ]
+[2024-02-27 09:30:12.909] [warn]  Invalid provider id CurseV2|322362
+[2024-02-27 09:30:12.909] [warn]  [ { id: '322362', providerName: 'Curse' } ]
+[2024-02-27 09:30:12.910] [warn]  Invalid provider id Wago|R4N2k46L
+[2024-02-27 09:30:12.910] [warn]  []
+[2024-02-27 09:30:12.910] [warn]  Invalid provider id CurseV2|334517
+[2024-02-27 09:30:12.910] [warn]  [
+  { id: '25083', providerName: 'WowInterface' },
+  { id: '334517', providerName: 'Curse' }
+]
+[2024-02-27 09:30:12.911] [warn]  Invalid provider id CurseV2|334372
+[2024-02-27 09:30:12.911] [warn]  [ { id: '334372', providerName: 'Curse' } ]
+[2024-02-27 09:30:12.911] [warn]  Invalid provider id Wago|qv634BKb
+[2024-02-27 09:30:12.912] [warn]  [ { id: '334372', providerName: 'Curse' } ]
+[2024-02-27 09:30:12.912] [warn]  Invalid provider id CurseV2|65387
+[2024-02-27 09:30:12.912] [warn]  [
+  { id: '24910', providerName: 'WowInterface' },
+  { id: '65387', providerName: 'Curse' }
+]
+[2024-02-27 09:30:12.913] [warn]  Invalid provider id Wago|VBNBxKx5
+[2024-02-27 09:30:12.913] [warn]  [
+  { id: '24910', providerName: 'WowInterface' },
+  { id: '65387', providerName: 'Curse' }
+]
+[2024-02-27 09:30:12.914] [warn]  Invalid provider id CurseV2|324944
+[2024-02-27 09:30:12.914] [warn]  [
+  { id: '25031', providerName: 'WowInterface' },
+  { id: '324944', providerName: 'Curse' }
+]
+[2024-02-27 09:30:13.041] [info]  {
+  installState: 7,
+  isInstalling: false,
+  installProgress: 0,
+  stateTextTranslationKey: 'COMMON.ADDON_STATE.UPTODATE',
+  selected: false,
+  releasedAt: 1707855411063,
+  installedAt: 1708009265362,
+  isLoadOnDemand: false,
+  hasThumbnail: true,
+  thumbnailLetter: 'B',
+  canonicalName: 'bagnon',
+  addon: {
+    id: '12f1c5f5-1316-421e-b9da-8a21aca91f8e',
+    author: 'jaliborc',
+    name: 'Bagnon',
+    channelType: 0,
+    autoUpdateEnabled: false,
+    autoUpdateNotificationsEnabled: false,
+    clientType: 6,
+    downloadUrl: 'https://edge.forgecdn.net/files/5105/826/Bagnon-10.2.19.zip',
+    externalUrl: 'https://www.curseforge.com/wow/addons/bagnon',
+    externalId: '1592',
+    gameVersion: '1.15.1',
+    installedAt: {},
+    installedFolders: 'Bagnon_Config,Bagnon_VoidStorage,Bagnon_GuildBank,Bagnon,BagBrother',
+    installedFolderList: [
+      'Bagnon_Config',
+      'Bagnon_VoidStorage',
+      'Bagnon_GuildBank',
+      'Bagnon',
+      'BagBrother'
+    ],
+    installedVersion: '10.2.19',
+    installedExternalReleaseId: '5105826',
+    isIgnored: false,
+    latestVersion: '10.2.19',
+    providerName: 'Curse',
+    thumbnailUrl: 'https://media.forgecdn.net/avatars/thumbnails/647/705/256/256/638048338012580367.png',
+    screenshotUrls: [ 'https://media.forgecdn.net/attachments/222/768/watsup.jpg' ],
+    downloadCount: 108809909,
+    summary: 'All in one displays for your inventory, bank, guild and vault',
+    releasedAt: {},
+    isLoadOnDemand: false,
+    externalLatestReleaseId: '5105826',
+    updatedAt: {},
+    externalChannel: 'Stable',
+    installationId: 'ad25db76-9d7e-4be9-aba6-8bd5d4076951',
+    externalIds: [ { id: '1592', providerName: 'Curse' } ],
+    warningType: 'game-version-toc-missing'
+  }
+}
+[2024-02-27 09:30:16.944] [info]  [RemoveAddon] Curse 1592 Bagnon
+[2024-02-27 09:30:16.945] [info]  [RemoveAddonDirectory] Curse 1592 /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Bagnon_Config
+[2024-02-27 09:30:16.948] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Bagnon_Config
+[2024-02-27 09:30:16.949] [info]  [RemoveAddonDirectory] Curse 1592 /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Bagnon_VoidStorage
+[2024-02-27 09:30:16.950] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Bagnon_VoidStorage
+[2024-02-27 09:30:16.956] [info]  [RemoveAddonDirectory] Curse 1592 /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Bagnon_GuildBank
+[2024-02-27 09:30:16.957] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Bagnon_GuildBank
+[2024-02-27 09:30:16.958] [info]  [RemoveAddonDirectory] Curse 1592 /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Bagnon
+[2024-02-27 09:30:16.959] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Bagnon
+[2024-02-27 09:30:16.961] [info]  [RemoveAddonDirectory] Curse 1592 /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/BagBrother
+[2024-02-27 09:30:16.961] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/BagBrother
+[2024-02-27 09:30:17.376] [info]  [GET] https://api.tukui.org/v1/changelog/elvui 200 377ms
+[2024-02-27 09:30:17.639] [info]  [GET] https://api.tukui.org/v1/changelog/tukui 200 233ms
+[2024-02-27 09:30:18.243] [info]  [AddonUpdate] Curse 6124 Auctionator '10.2.24-classic' -> '10.2.26-classic'
+[2024-02-27 09:30:18.244] [info]  [AddonUpdate] Curse 324034 Leatrix Maps (Classic Era) '1.15.18-classic' -> '1.15.19-classic'
+[2024-02-27 09:30:18.245] [info]  [AddonUpdate] Curse 322362 Leatrix Plus (Classic Era) '1.15.18-classic' -> '1.15.19-classic'
+[2024-02-27 09:30:18.247] [info]  [DownloadFile] 'https://edge.forgecdn.net/files/5126/394/Leatrix_Plus-1.15.19-classic.zip' -> '/home/colby/.config/WowUpCf/downloads/_MZiAVstZOnzux6f9-NV0-leatrix-plus-classic-era.zip'
+[2024-02-27 09:30:18.248] [info]  [DownloadFile] 'https://edge.forgecdn.net/files/5126/393/Leatrix_Maps-1.15.19-classic.zip' -> '/home/colby/.config/WowUpCf/downloads/-882G6i4KQ29SSClV-hcU-leatrix-maps-classic-era.zip'
+[2024-02-27 09:30:18.249] [info]  [DownloadFile] 'https://edge.forgecdn.net/files/5133/604/Auctionator-10.2.26-classic.zip' -> '/home/colby/.config/WowUpCf/downloads/gh6jtPlJbd4hUAB0HhB6E-auctionator.zip'
+[2024-02-27 09:30:18.292] [info]  [download] caught redirect 302 https://mediafilez.forgecdn.net/files/5126/394/Leatrix_Plus-1.15.19-classic.zip
+[2024-02-27 09:30:18.329] [info]  [download] caught redirect 302 https://mediafilez.forgecdn.net/files/5133/604/Auctionator-10.2.26-classic.zip
+[2024-02-27 09:30:18.364] [info]  [download] caught redirect 302 https://mediafilez.forgecdn.net/files/5126/393/Leatrix_Maps-1.15.19-classic.zip
+[2024-02-27 09:30:18.396] [debug] Write: [10] 57903
+[2024-02-27 09:30:18.397] [debug] Write: [35] 199642
+[2024-02-27 09:30:18.402] [debug] Write: [15] 16740
+[2024-02-27 09:30:18.405] [debug] Write: [65] 372736
+[2024-02-27 09:30:18.406] [debug] Write: [100] 105349
+[2024-02-27 09:30:18.412] [debug] Write: [85] 485305
+[2024-02-27 09:30:18.415] [debug] Write: [100] 569860
+[2024-02-27 09:30:18.415] [info]  [CreateDirectory] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Leatrix_Maps-bak'
+[2024-02-27 09:30:18.418] [info]  [FileCopy] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Leatrix_Maps' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Leatrix_Maps-bak'
+[2024-02-27 09:30:18.429] [info]  [CreateDirectory] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Leatrix_Plus-bak'
+[2024-02-27 09:30:18.430] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Leatrix_Maps
+[2024-02-27 09:30:18.432] [info]  [FileCopy] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Leatrix_Plus' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Leatrix_Plus-bak'
+[2024-02-27 09:30:18.435] [info]  unzipFile /home/colby/.config/WowUpCf/downloads/-882G6i4KQ29SSClV-hcU-leatrix-maps-classic-era.zip
+[2024-02-27 09:30:18.436] [debug] Write: [10] 80932
+[2024-02-27 09:30:18.447] [debug] Write: [50] 385854
+[2024-02-27 09:30:18.448] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Leatrix_Plus
+[2024-02-27 09:30:18.448] [debug] Write: [55] 425805
+[2024-02-27 09:30:18.452] [info]  unzipFile /home/colby/.config/WowUpCf/downloads/_MZiAVstZOnzux6f9-NV0-leatrix-plus-classic-era.zip
+[2024-02-27 09:30:18.455] [debug] Write: [85] 662628
+[2024-02-27 09:30:18.458] [debug] Write: [100] 771345
+[2024-02-27 09:30:18.471] [info]  [CreateDirectory] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Auctionator-bak'
+[2024-02-27 09:30:18.478] [info]  [FileCopy] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Auctionator' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Auctionator-bak'
+[2024-02-27 09:30:18.480] [info]  [FileCopy] '/home/colby/.config/WowUpCf/downloads/sOYdF2QN91kF6Mt01yQ4Y/Leatrix_Maps' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Leatrix_Maps'
+[2024-02-27 09:30:18.486] [info]  [RemovePath]: /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Leatrix_Maps-bak
+[2024-02-27 09:30:18.486] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Leatrix_Maps-bak
+[2024-02-27 09:30:18.489] [info]  [AddedDirs] Curse 324034 Leatrix Maps (Classic Era) 
+[2024-02-27 09:30:18.505] [info]  [AddonUpdateComplete] Curse 324034 Leatrix Maps (Classic Era) 1.15.19-classic
+[2024-02-27 09:30:18.529] [info]  [FileRemove] /home/colby/.config/WowUpCf/downloads/sOYdF2QN91kF6Mt01yQ4Y
+[2024-02-27 09:30:18.532] [info]  [FileCopy] '/home/colby/.config/WowUpCf/downloads/8ViyQhrxoj52iPuaR52R-/Leatrix_Plus' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Leatrix_Plus'
+[2024-02-27 09:30:18.534] [info]  [FileRemove] /home/colby/.config/WowUpCf/downloads/-882G6i4KQ29SSClV-hcU-leatrix-maps-classic-era.zip
+[2024-02-27 09:30:18.535] [info]  Install complete Leatrix Maps (Classic Era)
+[2024-02-27 09:30:18.535] [info]  [AddonUpdate] Curse 4646 Pawn '2.8.9 (Classic)' -> '2.8.10 (Classic)'
+[2024-02-27 09:30:18.536] [info]  [DownloadFile] 'https://edge.forgecdn.net/files/5133/396/Pawn-2.8.10-Classic.zip' -> '/home/colby/.config/WowUpCf/downloads/XAXYR9MrApRvTdBYqMvDp-pawn.zip'
+[2024-02-27 09:30:18.542] [info]  [RemovePath]: /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Leatrix_Plus-bak
+[2024-02-27 09:30:18.543] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Leatrix_Plus-bak
+[2024-02-27 09:30:18.545] [info]  [AddedDirs] Curse 322362 Leatrix Plus (Classic Era) 
+[2024-02-27 09:30:18.556] [info]  [AddonUpdateComplete] Curse 322362 Leatrix Plus (Classic Era) 1.15.19-classic
+[2024-02-27 09:30:18.576] [info]  [FileRemove] /home/colby/.config/WowUpCf/downloads/8ViyQhrxoj52iPuaR52R-
+[2024-02-27 09:30:18.581] [info]  [FileRemove] /home/colby/.config/WowUpCf/downloads/_MZiAVstZOnzux6f9-NV0-leatrix-plus-classic-era.zip
+[2024-02-27 09:30:18.582] [info]  Install complete Leatrix Plus (Classic Era)
+[2024-02-27 09:30:18.601] [info]  [download] caught redirect 302 https://mediafilez.forgecdn.net/files/5133/396/Pawn-2.8.10-Classic.zip
+[2024-02-27 09:30:18.689] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Auctionator
+[2024-02-27 09:30:18.697] [debug] Write: [30] 219772
+[2024-02-27 09:30:18.701] [debug] Write: [55] 408126
+[2024-02-27 09:30:18.702] [debug] Write: [75] 549394
+[2024-02-27 09:30:18.704] [info]  unzipFile /home/colby/.config/WowUpCf/downloads/gh6jtPlJbd4hUAB0HhB6E-auctionator.zip
+[2024-02-27 09:30:18.705] [debug] Write: [100] 729781
+[2024-02-27 09:30:18.711] [info]  [CreateDirectory] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Pawn-bak'
+[2024-02-27 09:30:18.717] [info]  [FileCopy] '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Pawn' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Pawn-bak'
+[2024-02-27 09:30:18.748] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Pawn
+[2024-02-27 09:30:18.752] [info]  unzipFile /home/colby/.config/WowUpCf/downloads/XAXYR9MrApRvTdBYqMvDp-pawn.zip
+[2024-02-27 09:30:18.817] [info]  [FileCopy] '/home/colby/.config/WowUpCf/downloads/9EPc3iVTB66Yw-9FN0Wo_/Pawn' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Pawn'
+[2024-02-27 09:30:18.848] [info]  [RemovePath]: /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Pawn-bak
+[2024-02-27 09:30:18.848] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Pawn-bak
+[2024-02-27 09:30:18.851] [info]  [AddedDirs] Curse 4646 Pawn 
+[2024-02-27 09:30:18.867] [info]  [AddonUpdateComplete] Curse 4646 Pawn 2.8.10 (Classic)
+[2024-02-27 09:30:18.891] [info]  [FileRemove] /home/colby/.config/WowUpCf/downloads/9EPc3iVTB66Yw-9FN0Wo_
+[2024-02-27 09:30:18.899] [info]  [FileRemove] /home/colby/.config/WowUpCf/downloads/XAXYR9MrApRvTdBYqMvDp-pawn.zip
+[2024-02-27 09:30:18.902] [info]  Install complete Pawn
+[2024-02-27 09:30:19.041] [info]  [FileCopy] '/home/colby/.config/WowUpCf/downloads/-0goPmdGuRNe-66HvrWg1/Auctionator' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Auctionator'
+[2024-02-27 09:30:19.183] [info]  [RemovePath]: /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Auctionator-bak
+[2024-02-27 09:30:19.183] [info]  [FileRemove] /home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Auctionator-bak
+[2024-02-27 09:30:19.200] [info]  [AddedDirs] Curse 6124 Auctionator 
+[2024-02-27 09:30:19.218] [info]  [AddonUpdateComplete] Curse 6124 Auctionator 10.2.26-classic
+[2024-02-27 09:30:19.261] [info]  [FileRemove] /home/colby/.config/WowUpCf/downloads/-0goPmdGuRNe-66HvrWg1
+[2024-02-27 09:30:19.279] [info]  [FileRemove] /home/colby/.config/WowUpCf/downloads/gh6jtPlJbd4hUAB0HhB6E-auctionator.zip
+[2024-02-27 09:30:19.280] [info]  Install complete Auctionator
+[2024-02-27 09:30:25.841] [info]  [GET] https://hub.wowup.io/addons/search/classic?query=bagnon&limit=10 200 169ms
+[2024-02-27 09:30:27.577] [info]  [AddonInstall] Curse 1592 Bagnon '' -> '10.2.19'
+[2024-02-27 09:30:27.578] [info]  [DownloadFile] 'https://edge.forgecdn.net/files/5105/826/Bagnon-10.2.19.zip' -> '/home/colby/.config/WowUpCf/downloads/SkZu-T70MzW9JI7BtsDKp-bagnon.zip'
+[2024-02-27 09:30:27.647] [info]  [download] caught redirect 302 https://mediafilez.forgecdn.net/files/5105/826/Bagnon-10.2.19.zip
+[2024-02-27 09:30:27.686] [debug] Write: [100] 277012
+[2024-02-27 09:30:27.690] [info]  unzipFile /home/colby/.config/WowUpCf/downloads/SkZu-T70MzW9JI7BtsDKp-bagnon.zip
+[2024-02-27 09:30:27.838] [info]  [FileCopy] '/home/colby/.config/WowUpCf/downloads/UYF6thFnYZtNBnXdBWaAi/BagBrother' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/BagBrother'
+[2024-02-27 09:30:27.889] [info]  [FileCopy] '/home/colby/.config/WowUpCf/downloads/UYF6thFnYZtNBnXdBWaAi/Bagnon' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Bagnon'
+[2024-02-27 09:30:27.893] [info]  [FileCopy] '/home/colby/.config/WowUpCf/downloads/UYF6thFnYZtNBnXdBWaAi/Bagnon_Config' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Bagnon_Config'
+[2024-02-27 09:30:27.895] [info]  [FileCopy] '/home/colby/.config/WowUpCf/downloads/UYF6thFnYZtNBnXdBWaAi/Bagnon_GuildBank' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Bagnon_GuildBank'
+[2024-02-27 09:30:27.896] [info]  [FileCopy] '/home/colby/.config/WowUpCf/downloads/UYF6thFnYZtNBnXdBWaAi/Bagnon_VoidStorage' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/Bagnon_VoidStorage'
+[2024-02-27 09:30:27.939] [info]  [AddonInstallComplete] Curse 1592 Bagnon 10.2.19
+[2024-02-27 09:30:27.985] [info]  [FileRemove] /home/colby/.config/WowUpCf/downloads/UYF6thFnYZtNBnXdBWaAi
+[2024-02-27 09:30:27.996] [info]  [FileRemove] /home/colby/.config/WowUpCf/downloads/SkZu-T70MzW9JI7BtsDKp-bagnon.zip
+[2024-02-27 09:30:27.997] [info]  Install complete Bagnon
+[2024-02-27 09:30:30.068] [info]  Setting wow installations: 3
+[2024-02-27 09:30:30.889] [info]  [GET] https://hub.wowup.io/addons/featured/wotlk?count=60&recent=30 200 804ms
+[2024-02-27 09:30:34.254] [info]  [GET] https://hub.wowup.io/addons/search/wotlk?query=bagnon&limit=10 200 128ms
+[2024-02-27 09:30:36.008] [info]  [AddonInstall] Curse 1592 Bagnon '' -> '10.2.19'
+[2024-02-27 09:30:36.010] [info]  [DownloadFile] 'https://edge.forgecdn.net/files/5105/826/Bagnon-10.2.19.zip' -> '/home/colby/.config/WowUpCf/downloads/VGxVhLnHNT1j-6GVGgPjd-bagnon.zip'
+[2024-02-27 09:30:36.053] [info]  [download] caught redirect 302 https://mediafilez.forgecdn.net/files/5105/826/Bagnon-10.2.19.zip
+[2024-02-27 09:30:36.056] [debug] Write: [70] 196608
+[2024-02-27 09:30:36.057] [debug] Write: [100] 277012
+[2024-02-27 09:30:36.060] [info]  unzipFile /home/colby/.config/WowUpCf/downloads/VGxVhLnHNT1j-6GVGgPjd-bagnon.zip
+[2024-02-27 09:30:36.219] [info]  [FileCopy] '/home/colby/.config/WowUpCf/downloads/Sgvlg0-AhzI_JAaOShEIu/BagBrother' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/BagBrother'
+[2024-02-27 09:30:36.263] [info]  [FileCopy] '/home/colby/.config/WowUpCf/downloads/Sgvlg0-AhzI_JAaOShEIu/Bagnon' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Bagnon'
+[2024-02-27 09:30:36.268] [info]  [FileCopy] '/home/colby/.config/WowUpCf/downloads/Sgvlg0-AhzI_JAaOShEIu/Bagnon_Config' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Bagnon_Config'
+[2024-02-27 09:30:36.270] [info]  [FileCopy] '/home/colby/.config/WowUpCf/downloads/Sgvlg0-AhzI_JAaOShEIu/Bagnon_GuildBank' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Bagnon_GuildBank'
+[2024-02-27 09:30:36.271] [info]  [FileCopy] '/home/colby/.config/WowUpCf/downloads/Sgvlg0-AhzI_JAaOShEIu/Bagnon_VoidStorage' -> '/home/colby/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Bagnon_VoidStorage'
+[2024-02-27 09:30:36.310] [info]  [AddonInstallComplete] Curse 1592 Bagnon 10.2.19
+[2024-02-27 09:30:36.358] [info]  [FileRemove] /home/colby/.config/WowUpCf/downloads/Sgvlg0-AhzI_JAaOShEIu
+[2024-02-27 09:30:36.372] [info]  [FileRemove] /home/colby/.config/WowUpCf/downloads/VGxVhLnHNT1j-6GVGgPjd-bagnon.zip
+[2024-02-27 09:30:36.373] [info]  Install complete Bagnon
+[2024-02-27 09:30:39.911] [info]  Setting wow installations: 3
+[2024-02-27 09:30:41.223] [info]  [GET] https://hub.wowup.io/addons/featured/retail?count=60&recent=30 200 1294ms
+[2024-02-27 09:30:42.905] [info]  window config saved

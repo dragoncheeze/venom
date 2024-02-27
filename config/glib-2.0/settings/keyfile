@@ -20,3 +20,4 @@ color-scheme='prefer-dark'
 
 [org/gnome/simple-scan]
 document-type='photo'
+save-directory='file:///home/colby/'
